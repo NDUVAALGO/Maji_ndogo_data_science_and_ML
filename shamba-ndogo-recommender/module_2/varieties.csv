@@ -1,0 +1,2501 @@
+varietyId,variety,traits
+1,Kilimani Gold Maize (1995),DroughtTolerant|EarlyMaturing|HighYield|Staple|Rainfed
+2,Kilimani Gold Maize 2 (1999),DroughtTolerant|EarlyMaturing|HighYield|Staple|Rainfed
+3,Kilimani Gold Maize 3 (2010),DroughtTolerant|EarlyMaturing|HighYield|Staple|Rainfed
+4,Kilimani Gold Maize 4 (2019),DroughtTolerant|EarlyMaturing|HighYield|Staple|Rainfed
+5,Kilimani Pearl Sorghum (1998),DroughtTolerant|EarlyMaturing|Staple|LowInput
+6,Ukulima Dawn Millet (2001),DroughtTolerant|EarlyMaturing|LowInput
+7,Ukulima Shield Cowpea (2004),DroughtTolerant|PestResistant|Intercrop
+8,Kilimani Star Bean (2013),DroughtTolerant|EarlyMaturing|HighYield|Intercrop
+9,Ukulima Crest Groundnut (2016),DroughtTolerant|EarlyMaturing|CashCrop
+10,Tanari Short-Season Bean (2023),EarlyMaturing|DroughtTolerant
+11,Prime Groundnut of Kilimani (2005),MarketGrade
+12,Groundnut Star 52 (1985),CashCrop
+13,Bean Giant 25 (2012),HeatTolerant|Irrigated
+14,Summit Sunflower of Amanzi (1987),Staple|SandySoil|Rainfed
+15,Delta Cassava of Akatsi (2011),Irrigated|Intercrop
+16,Amanzi Shield Bean (1993),DroughtTolerant|PestResistant
+17,Maize Pearl 19 (1998),Fortified
+18,Star Bean of Hawassa (1989),HighYield
+19,Amanzi Giant Rice (2021),HeatTolerant
+20,Tea Dawn 75 (1982),Irrigated|SandySoil|Staple
+21,Shield Cassava of Sokoto (2011),HeatTolerant|CashCrop
+22,Cowpea Star 37 (1996),PestResistant|HighYield
+23,Dawn Millet of Sokoto (1991),CashCrop
+24,Shield Millet of Amanzi (2009),Irrigated|PestResistant
+25,Dawn Cassava of Hawassa (1993),HeatTolerant|HighYield
+26,Kilimani Delta Rice (2006),DualPurpose
+27,Sokoto Dawn Sweet Potato (1990),Rainfed|FloodTolerant|CashCrop
+28,Amanzi Delta Rice (1989),LowInput|Fortified|MarketGrade
+29,Millet Spring 10 (2008),LongStorage
+30,Hawassa Crest Millet (2017),MarketGrade|SandySoil|LongStorage
+31,Hawassa Delta Cowpea (2009),DualPurpose
+32,Hawassa Pearl Rice (1992),FloodTolerant|Irrigated|EarlyMaturing
+33,Gold Sweet Potato of Akatsi (1980),DiseaseResistant|HeatTolerant|SandySoil
+34,Sokoto Prime Bean (2020),CashCrop|Rainfed|PestResistant
+35,Delta Tea of Sokoto (1983),Irrigated
+36,Tea Pearl 82 (2004),DroughtTolerant
+37,Star Tea of Hawassa (1999),Rainfed|Staple
+38,Shield Cowpea of Akatsi (2022),SandySoil|Intercrop
+39,Millet Spring 29 (2000),DiseaseResistant|LowInput|HighYield
+40,Kilimani Swift Wheat (1993),PestResistant|Intercrop|Irrigated
+41,Prime Sorghum of Akatsi (1985),Intercrop
+42,Millet Summit 58 (1994),DroughtTolerant|EarlyMaturing
+43,Wheat Pearl 15 (1990),ClaySoil|Irrigated
+44,Amanzi Star Bean (2019),HighYield|Fortified
+45,Sweet Potato Pearl 81 (2023),LongStorage|EarlyMaturing|FloodTolerant
+46,Rice Giant 84 (1980),Staple|EarlyMaturing
+47,Shield Tea of Hawassa (1991),Fortified|MarketGrade
+48,Pearl Cassava of Hawassa (2020),Intercrop|ClaySoil|HeatTolerant
+49,Summit Maize of Kilimani (2022),Rainfed
+50,Dawn Sweet Potato of Amanzi (1988),Irrigated|Staple|Fortified
+51,Prime Wheat of Hawassa (1983),Rainfed|HeatTolerant|FloodTolerant
+52,Sunflower Giant 51 (2016),LongStorage|Intercrop|PestResistant
+53,Sorghum Delta 54 (1992),HeatTolerant
+54,Kilimani Royal Groundnut (1992),HighYield|SandySoil
+55,Swift Cassava of Akatsi (2003),Irrigated
+56,Summit Sorghum of Kilimani (1983),DroughtTolerant|HeatTolerant|MarketGrade
+57,Maize Star 78 (1998),CashCrop|Irrigated|FloodTolerant
+58,Millet Pearl 60 (2005),DroughtTolerant|HighYield
+59,Kilimani Prime Bean (1988),HeatTolerant
+60,Wheat Delta 19 (1985),LowInput
+61,Sorghum Spring 60 (2004),HighYield|LongStorage
+62,Ember Groundnut of Akatsi (2001),MarketGrade|ClaySoil|Irrigated
+63,Hawassa Giant Sweet Potato (1983),Irrigated|PestResistant|DroughtTolerant
+64,Rice Spring 10 (2023),PestResistant
+65,Hawassa Gold Maize (1986),CashCrop|FloodTolerant|MarketGrade
+66,Bean Prime 98 (1994),HeatTolerant
+67,Kilimani Royal Maize (2014),ClaySoil|HeatTolerant|DiseaseResistant
+68,Akatsi Dawn Tea (2008),Staple
+69,Akatsi Prime Groundnut (1985),EarlyMaturing
+70,Hawassa Royal Millet (1994),HeatTolerant|Fortified
+71,Crest Maize of Akatsi (1994),LowInput|Irrigated|LongStorage
+72,Kilimani Prime Bean (2000),LowInput|Staple
+73,Rice Delta 15 (2012),ClaySoil|DroughtTolerant|SandySoil
+74,Millet Giant 93 (1985),Fortified|Rainfed|DiseaseResistant
+75,Star Bean of Akatsi (1990),HeatTolerant
+76,Amanzi Giant Sorghum (1999),EarlyMaturing|HeatTolerant
+77,Sorghum Dawn 9 (2009),HighYield|CashCrop
+78,Rice Shield 29 (2013),Staple|LongStorage
+79,Swift Sunflower of Sokoto (2015),DualPurpose|LongStorage|LowInput
+80,Bean Pearl 58 (2010),Staple|Irrigated
+81,Amanzi Spring Wheat (1985),Staple|HeatTolerant|DiseaseResistant
+82,Hawassa Giant Sunflower (1986),Irrigated|DiseaseResistant|Staple
+83,Bean Pearl 61 (2001),LowInput|PestResistant|CashCrop
+84,Bean Summit 59 (2009),ClaySoil|Fortified
+85,Prime Millet of Amanzi (2000),LongStorage|Fortified
+86,Bean Prime 48 (1993),Irrigated
+87,Hawassa Gold Maize (1999),HighYield|Fortified|DiseaseResistant
+88,Hawassa Star Tea (2006),DroughtTolerant|EarlyMaturing|CashCrop
+89,Sokoto Delta Sweet Potato (2018),Rainfed|HighYield|DiseaseResistant
+90,Swift Tea of Akatsi (1984),ClaySoil|MarketGrade|DroughtTolerant
+91,Rice Giant 47 (2004),DiseaseResistant|HeatTolerant|FloodTolerant
+92,Wheat Crest 19 (2006),Staple|CashCrop|DiseaseResistant
+93,Swift Wheat of Kilimani (2023),Irrigated
+94,Groundnut Gold 8 (2014),CashCrop
+95,Sokoto Pearl Sweet Potato (2017),CashCrop|HeatTolerant
+96,Hawassa Crest Cowpea (1989),DiseaseResistant|MarketGrade
+97,Sokoto Shield Sunflower (2017),EarlyMaturing
+98,Delta Cowpea of Kilimani (2003),Intercrop|SandySoil
+99,Sweet Potato Pearl 62 (2005),LowInput|EarlyMaturing|Staple
+100,Bean Dawn 74 (1983),Rainfed
+101,Millet Prime 11 (1982),Fortified
+102,Sokoto Spring Millet (1999),DiseaseResistant|HeatTolerant
+103,Rice Ember 91 (1996),Intercrop|LongStorage|DiseaseResistant
+104,Rice Giant 9 (2001),PestResistant|LowInput|Irrigated
+105,Cassava Summit 84 (2013),SandySoil|HighYield|Staple
+106,Prime Sunflower of Sokoto (2020),SandySoil
+107,Cassava Summit 31 (2003),Staple|MarketGrade
+108,Akatsi Summit Cowpea (1995),DiseaseResistant|CashCrop
+109,Shield Maize of Hawassa (2013),PestResistant|Fortified|MarketGrade
+110,Sokoto Delta Rice (2000),HeatTolerant|FloodTolerant|MarketGrade
+111,Sorghum Delta 95 (2012),Irrigated
+112,Ember Cowpea of Kilimani (2000),MarketGrade|DiseaseResistant
+113,Kilimani Spring Sunflower (1998),SandySoil|Irrigated
+114,Cowpea Dawn 16 (1993),MarketGrade|FloodTolerant|HeatTolerant
+115,Gold Tea of Sokoto (1993),HighYield
+116,Pearl Wheat of Kilimani (2002),LowInput|FloodTolerant
+117,Delta Rice of Amanzi (2019),LowInput|HeatTolerant|Rainfed
+118,Spring Rice of Kilimani (1986),Irrigated
+119,Wheat Dawn 82 (2011),LowInput
+120,Royal Bean of Akatsi (1990),SandySoil|HighYield
+121,Amanzi Shield Sorghum (1990),Irrigated
+122,Cassava Gold 40 (2018),PestResistant|Intercrop|DualPurpose
+123,Spring Rice of Sokoto (1983),Fortified|LongStorage
+124,Kilimani Pearl Groundnut (1986),SandySoil|HeatTolerant
+125,Cassava Delta 83 (1997),LongStorage|Rainfed|Irrigated
+126,Royal Sorghum of Sokoto (2008),HeatTolerant|HighYield|CashCrop
+127,Amanzi Giant Wheat (1993),DroughtTolerant
+128,Cassava Summit 52 (1994),Irrigated|Rainfed|DroughtTolerant
+129,Amanzi Royal Rice (1996),SandySoil|Irrigated|MarketGrade
+130,Amanzi Spring Cowpea (2021),LowInput
+131,Sweet Potato Royal 39 (1989),FloodTolerant|DiseaseResistant|CashCrop
+132,Bean Spring 10 (2023),ClaySoil|Fortified|FloodTolerant
+133,Maize Star 77 (1989),DualPurpose|LowInput
+134,Cassava Gold 59 (2019),Fortified|DiseaseResistant|MarketGrade
+135,Sorghum Prime 4 (1988),EarlyMaturing
+136,Star Sunflower of Sokoto (2005),Irrigated|SandySoil|HighYield
+137,Amanzi Summit Bean (1987),CashCrop
+138,Prime Bean of Hawassa (2005),Fortified|CashCrop
+139,Tea Summit 74 (2003),Staple|DiseaseResistant|ClaySoil
+140,Spring Cassava of Hawassa (1986),Staple
+141,Akatsi Dawn Wheat (1990),HeatTolerant|DiseaseResistant
+142,Millet Delta 14 (1985),LongStorage|Fortified|Intercrop
+143,Maize Pearl 59 (2022),DiseaseResistant
+144,Bean Pearl 92 (1984),FloodTolerant|DroughtTolerant|MarketGrade
+145,Swift Tea of Hawassa (2021),DroughtTolerant
+146,Summit Wheat of Hawassa (1988),HeatTolerant|Intercrop|HighYield
+147,Spring Cassava of Kilimani (2019),MarketGrade|PestResistant
+148,Cassava Crest 38 (2005),Staple
+149,Cowpea Delta 18 (2021),ClaySoil
+150,Millet Ember 64 (2012),MarketGrade|PestResistant|EarlyMaturing
+151,Akatsi Star Cowpea (1980),CashCrop|Staple|LowInput
+152,Bean Prime 88 (1987),DualPurpose|HeatTolerant|Intercrop
+153,Kilimani Delta Tea (2012),DiseaseResistant|DualPurpose|DroughtTolerant
+154,Millet Spring 53 (2013),HeatTolerant|ClaySoil
+155,Crest Wheat of Akatsi (2011),HighYield
+156,Wheat Swift 60 (2013),HighYield|Rainfed|Irrigated
+157,Tea Shield 66 (2002),PestResistant
+158,Sokoto Ember Sunflower (1985),Intercrop|MarketGrade|DualPurpose
+159,Delta Tea of Sokoto (2014),SandySoil|ClaySoil
+160,Sokoto Star Millet (2010),LongStorage|Intercrop
+161,Sweet Potato Star 33 (2010),FloodTolerant|DiseaseResistant
+162,Kilimani Delta Maize (2014),CashCrop
+163,Swift Sunflower of Kilimani (2023),DroughtTolerant
+164,Groundnut Crest 27 (1997),PestResistant|LowInput|MarketGrade
+165,Millet Spring 33 (2001),FloodTolerant
+166,Swift Rice of Sokoto (2015),ClaySoil
+167,Delta Sorghum of Akatsi (1996),FloodTolerant|DiseaseResistant|HeatTolerant
+168,Sweet Potato Swift 83 (1986),SandySoil|DualPurpose|CashCrop
+169,Shield Bean of Hawassa (1992),FloodTolerant|Rainfed|DiseaseResistant
+170,Amanzi Royal Cassava (1992),HeatTolerant|LowInput|PestResistant
+171,Akatsi Summit Bean (2016),EarlyMaturing
+172,Sweet Potato Giant 21 (1992),FloodTolerant|ClaySoil|HeatTolerant
+173,Kilimani Summit Groundnut (1995),DroughtTolerant|LowInput|Rainfed
+174,Sweet Potato Pearl 86 (1988),DiseaseResistant|PestResistant
+175,Akatsi Dawn Sweet Potato (2016),EarlyMaturing|Rainfed|CashCrop
+176,Sorghum Swift 67 (1989),HeatTolerant
+177,Hawassa Spring Cassava (2021),ClaySoil
+178,Bean Delta 2 (2010),SandySoil
+179,Royal Cowpea of Akatsi (2012),LongStorage
+180,Tea Delta 55 (2006),PestResistant
+181,Spring Sweet Potato of Sokoto (2018),PestResistant
+182,Swift Cowpea of Hawassa (1989),CashCrop|PestResistant
+183,Cassava Royal 18 (2018),Fortified|LongStorage
+184,Cassava Summit 88 (2014),EarlyMaturing|HeatTolerant
+185,Bean Gold 83 (2008),Staple
+186,Star Tea of Sokoto (2013),CashCrop
+187,Sokoto Prime Bean (1995),Irrigated|CashCrop|ClaySoil
+188,Amanzi Crest Cowpea (1999),MarketGrade
+189,Bean Gold 92 (1992),Fortified
+190,Groundnut Crest 46 (2003),HeatTolerant
+191,Shield Bean of Amanzi (2002),PestResistant
+192,Akatsi Pearl Tea (2010),PestResistant|Irrigated
+193,Akatsi Spring Sorghum (2013),CashCrop|SandySoil
+194,Royal Cowpea of Akatsi (1981),FloodTolerant|Fortified|LowInput
+195,Kilimani Spring Cowpea (1983),Rainfed|PestResistant|LowInput
+196,Star Maize of Sokoto (2009),Staple
+197,Rice Royal 9 (1984),SandySoil|HighYield|LowInput
+198,Akatsi Spring Sweet Potato (2013),CashCrop|Fortified|LongStorage
+199,Maize Delta 58 (2016),LongStorage|FloodTolerant|SandySoil
+200,Cassava Crest 34 (1992),HighYield|LongStorage|Fortified
+201,Groundnut Summit 14 (1982),LongStorage|DualPurpose|EarlyMaturing
+202,Pearl Millet of Hawassa (1985),DiseaseResistant
+203,Kilimani Crest Wheat (1997),LowInput|HighYield|LongStorage
+204,Swift Tea of Sokoto (2019),EarlyMaturing|Fortified|PestResistant
+205,Akatsi Shield Maize (1982),LongStorage|SandySoil
+206,Sweet Potato Royal 62 (2013),DiseaseResistant|MarketGrade
+207,Rice Summit 33 (1988),DiseaseResistant|Irrigated|HighYield
+208,Kilimani Gold Groundnut (2003),Intercrop|Rainfed|HeatTolerant
+209,Sokoto Prime Rice (2019),Intercrop
+210,Amanzi Delta Groundnut (1980),Intercrop
+211,Swift Cassava of Kilimani (1990),Irrigated|Rainfed
+212,Groundnut Delta 66 (2023),Staple
+213,Groundnut Dawn 96 (2005),MarketGrade|LowInput|Irrigated
+214,Crest Sunflower of Amanzi (1997),DualPurpose|Intercrop
+215,Sorghum Pearl 22 (2013),EarlyMaturing|Intercrop|PestResistant
+216,Ember Rice of Sokoto (2023),MarketGrade|Rainfed
+217,Sokoto Swift Sorghum (2007),DroughtTolerant|DualPurpose
+218,Sunflower Royal 53 (1982),DiseaseResistant
+219,Akatsi Ember Maize (1983),HighYield|EarlyMaturing|LowInput
+220,Millet Star 72 (2021),Staple
+221,Kilimani Summit Maize (2012),HighYield|Intercrop
+222,Akatsi Star Wheat (2013),Intercrop|PestResistant|LongStorage
+223,Groundnut Royal 80 (1983),Fortified|CashCrop
+224,Millet Royal 47 (2013),Staple|Rainfed
+225,Sokoto Pearl Sunflower (2022),HighYield
+226,Sunflower Shield 60 (1981),DroughtTolerant|Irrigated|Rainfed
+227,Rice Prime 24 (1980),LongStorage|PestResistant|EarlyMaturing
+228,Sokoto Swift Cassava (2021),LongStorage|DroughtTolerant
+229,Rice Giant 45 (1981),Staple|EarlyMaturing
+230,Wheat Summit 36 (2018),SandySoil
+231,Cassava Swift 9 (2020),HeatTolerant|MarketGrade|Rainfed
+232,Giant Maize of Amanzi (1999),Staple|LowInput
+233,Sorghum Shield 2 (2022),Rainfed|ClaySoil
+234,Swift Sweet Potato of Amanzi (2007),LongStorage|PestResistant|HighYield
+235,Kilimani Pearl Cowpea (2010),MarketGrade
+236,Maize Summit 22 (2007),LowInput
+237,Millet Ember 63 (2015),DroughtTolerant|EarlyMaturing|ClaySoil
+238,Crest Cassava of Hawassa (1982),Irrigated|HighYield|MarketGrade
+239,Amanzi Swift Sorghum (2018),CashCrop|SandySoil
+240,Sokoto Summit Millet (2011),SandySoil
+241,Shield Millet of Sokoto (1995),MarketGrade|Staple|HeatTolerant
+242,Summit Sweet Potato of Kilimani (2008),Fortified
+243,Cowpea Spring 95 (1998),PestResistant
+244,Cowpea Pearl 24 (1984),LongStorage
+245,Sokoto Royal Sweet Potato (1985),Fortified
+246,Hawassa Spring Bean (2004),(no traits listed)
+247,Cassava Pearl 46 (2019),ClaySoil|SandySoil|Staple
+248,Giant Maize of Amanzi (1980),PestResistant
+249,Sorghum Spring 76 (1992),Irrigated|Intercrop|LongStorage
+250,Crest Millet of Akatsi (1983),HeatTolerant
+251,Amanzi Summit Rice (2007),LongStorage|Staple
+252,Kilimani Pearl Wheat (2023),HeatTolerant|DroughtTolerant
+253,Swift Sweet Potato of Hawassa (1982),Staple
+254,Dawn Groundnut of Amanzi (1982),Fortified
+255,Millet Gold 58 (2000),HighYield
+256,Swift Tea of Akatsi (2023),ClaySoil|DualPurpose
+257,Hawassa Swift Wheat (2007),Rainfed|EarlyMaturing
+258,Shield Cowpea of Akatsi (1986),FloodTolerant
+259,Akatsi Star Sweet Potato (2018),Irrigated|DroughtTolerant|SandySoil
+260,Giant Millet of Kilimani (1996),Intercrop
+261,Royal Groundnut of Kilimani (2004),HighYield|CashCrop
+262,Summit Millet of Akatsi (2001),DiseaseResistant|LowInput
+263,Sunflower Shield 53 (2023),Fortified|SandySoil|HighYield
+264,Shield Sweet Potato of Hawassa (1984),ClaySoil
+265,Star Groundnut of Sokoto (2008),HighYield|Irrigated
+266,Amanzi Giant Millet (2004),Rainfed|ClaySoil
+267,Kilimani Star Bean (2002),Fortified|FloodTolerant|EarlyMaturing
+268,Sokoto Ember Sorghum (1994),FloodTolerant
+269,Kilimani Spring Rice (2005),Staple|PestResistant
+270,Hawassa Prime Sunflower (2016),LongStorage|PestResistant|HighYield
+271,Sokoto Shield Sweet Potato (2003),CashCrop|FloodTolerant|DualPurpose
+272,Sweet Potato Summit 22 (2013),DualPurpose|Rainfed|CashCrop
+273,Crest Sweet Potato of Akatsi (1985),LongStorage
+274,Crest Millet of Amanzi (2002),DiseaseResistant|ClaySoil|SandySoil
+275,Spring Cassava of Kilimani (2021),FloodTolerant|DualPurpose|SandySoil
+276,Hawassa Gold Cowpea (2011),DroughtTolerant|Irrigated
+277,Amanzi Crest Groundnut (1998),LongStorage
+278,Amanzi Prime Cowpea (2013),EarlyMaturing|SandySoil|ClaySoil
+279,Crest Cassava of Sokoto (2010),MarketGrade|Fortified|CashCrop
+280,Sokoto Giant Millet (2004),PestResistant|DroughtTolerant
+281,Sokoto Spring Sorghum (1985),Staple
+282,Hawassa Royal Groundnut (2006),HeatTolerant|LongStorage|LowInput
+283,Amanzi Spring Sweet Potato (2013),Irrigated|LowInput
+284,Prime Sunflower of Hawassa (2009),EarlyMaturing
+285,Cowpea Gold 11 (2004),CashCrop|SandySoil|Irrigated
+286,Cassava Gold 91 (2008),HighYield|MarketGrade|SandySoil
+287,Sunflower Prime 33 (1994),FloodTolerant|LongStorage
+288,Sweet Potato Prime 37 (1989),FloodTolerant|ClaySoil|DroughtTolerant
+289,Hawassa Shield Tea (1986),EarlyMaturing|Rainfed|HighYield
+290,Sweet Potato Delta 36 (2022),Fortified|PestResistant
+291,Kilimani Gold Millet (1984),DiseaseResistant
+292,Star Cassava of Hawassa (2010),FloodTolerant
+293,Amanzi Ember Sweet Potato (1983),Staple|Fortified
+294,Kilimani Swift Tea (1994),ClaySoil|LongStorage|LowInput
+295,Gold Sorghum of Sokoto (1981),LongStorage
+296,Swift Bean of Akatsi (1992),Irrigated
+297,Millet Delta 71 (1988),CashCrop|DualPurpose|MarketGrade
+298,Akatsi Swift Groundnut (1984),ClaySoil|EarlyMaturing
+299,Shield Maize of Sokoto (1991),PestResistant
+300,Kilimani Pearl Tea (1996),LowInput|SandySoil|DroughtTolerant
+301,Kilimani Crest Groundnut (1980),EarlyMaturing|CashCrop
+302,Cowpea Dawn 13 (1998),LowInput|Rainfed
+303,Bean Summit 81 (1988),EarlyMaturing
+304,Cassava Pearl 82 (2004),(no traits listed)
+305,Akatsi Delta Rice (1982),Irrigated
+306,Amanzi Prime Groundnut (1988),Fortified|EarlyMaturing|DiseaseResistant
+307,Maize Delta 36 (1994),HighYield|FloodTolerant|Intercrop
+308,Shield Cassava of Sokoto (2012),Rainfed|Staple|MarketGrade
+309,Cassava Giant 47 (1989),Fortified
+310,Sokoto Delta Sweet Potato (1984),ClaySoil|Intercrop|EarlyMaturing
+311,Kilimani Prime Sweet Potato (2021),Irrigated|DiseaseResistant
+312,Hawassa Prime Rice (1983),CashCrop|PestResistant
+313,Cassava Crest 57 (2003),LongStorage|PestResistant
+314,Prime Sorghum of Kilimani (1988),SandySoil|FloodTolerant
+315,Star Wheat of Akatsi (1987),Fortified
+316,Kilimani Delta Tea (1997),Fortified
+317,Millet Pearl 12 (2011),HeatTolerant|Irrigated|HighYield
+318,Groundnut Ember 19 (1995),DroughtTolerant
+319,Sokoto Star Cassava (2003),DualPurpose|Staple
+320,Sweet Potato Crest 20 (1996),HighYield
+321,Shield Sunflower of Akatsi (2012),EarlyMaturing
+322,Sokoto Swift Sunflower (2021),DroughtTolerant|Intercrop
+323,Amanzi Pearl Cassava (2000),HeatTolerant
+324,Rice Gold 57 (1984),PestResistant|LowInput|HighYield
+325,Dawn Groundnut of Akatsi (1994),EarlyMaturing
+326,Swift Rice of Kilimani (2003),Irrigated
+327,Sunflower Crest 71 (1989),MarketGrade|Rainfed
+328,Crest Rice of Akatsi (2022),LongStorage|HighYield
+329,Sorghum Star 14 (2007),Staple|ClaySoil
+330,Tea Pearl 73 (1983),DualPurpose
+331,Maize Summit 85 (1996),DualPurpose|LowInput
+332,Amanzi Delta Cowpea (1996),HeatTolerant|PestResistant|Intercrop
+333,Giant Millet of Amanzi (2014),PestResistant|SandySoil
+334,Summit Sunflower of Sokoto (1989),HighYield|DualPurpose|PestResistant
+335,Gold Groundnut of Sokoto (1984),Fortified|LowInput|DroughtTolerant
+336,Hawassa Prime Maize (1988),SandySoil|LongStorage
+337,Sunflower Star 61 (1997),DroughtTolerant|LongStorage
+338,Cowpea Swift 60 (2003),LongStorage
+339,Sokoto Giant Sunflower (2023),DiseaseResistant
+340,Kilimani Spring Cowpea (1998),EarlyMaturing|CashCrop|PestResistant
+341,Delta Millet of Kilimani (2020),HighYield
+342,Sokoto Swift Millet (2002),Irrigated
+343,Royal Millet of Hawassa (1984),FloodTolerant|HighYield
+344,Tea Shield 41 (2012),MarketGrade|Fortified|Rainfed
+345,Prime Sweet Potato of Kilimani (1984),HeatTolerant|CashCrop
+346,Tea Spring 57 (2016),(no traits listed)
+347,Star Sorghum of Amanzi (2001),PestResistant|DualPurpose|HighYield
+348,Giant Tea of Kilimani (2009),FloodTolerant|PestResistant
+349,Sokoto Giant Groundnut (2016),ClaySoil
+350,Giant Cowpea of Amanzi (2010),LowInput|HeatTolerant|FloodTolerant
+351,Crest Millet of Amanzi (2010),CashCrop|LongStorage
+352,Amanzi Crest Wheat (2006),Fortified|DiseaseResistant|ClaySoil
+353,Bean Giant 73 (2019),PestResistant|SandySoil|Staple
+354,Amanzi Crest Maize (2014),DiseaseResistant|FloodTolerant
+355,Spring Maize of Sokoto (2003),MarketGrade|Fortified
+356,Star Tea of Akatsi (2015),LongStorage
+357,Sweet Potato Swift 5 (1982),ClaySoil|HighYield|MarketGrade
+358,Akatsi Crest Sweet Potato (1986),Rainfed|Staple|Intercrop
+359,Amanzi Crest Groundnut (2008),MarketGrade
+360,Spring Cassava of Akatsi (2007),FloodTolerant|MarketGrade
+361,Shield Tea of Amanzi (2005),Intercrop
+362,Akatsi Delta Sorghum (2019),Fortified|DiseaseResistant|PestResistant
+363,Cowpea Ember 72 (1999),EarlyMaturing
+364,Hawassa Star Sorghum (2006),Irrigated
+365,Delta Cowpea of Hawassa (1982),CashCrop|LongStorage|Rainfed
+366,Ember Bean of Kilimani (2009),SandySoil|Intercrop
+367,Wheat Swift 97 (2003),HeatTolerant|Staple
+368,Delta Maize of Amanzi (2015),DroughtTolerant|ClaySoil|SandySoil
+369,Sunflower Prime 93 (1999),EarlyMaturing
+370,Amanzi Royal Bean (1984),Rainfed
+371,Sorghum Swift 5 (2022),DroughtTolerant
+372,Tea Gold 75 (2000),PestResistant|Intercrop
+373,Groundnut Royal 92 (2013),PestResistant
+374,Spring Groundnut of Amanzi (2000),HeatTolerant
+375,Giant Cassava of Sokoto (1981),HeatTolerant
+376,Sorghum Gold 43 (1990),PestResistant|FloodTolerant
+377,Akatsi Swift Sorghum (2004),Rainfed|Staple|EarlyMaturing
+378,Shield Rice of Hawassa (2009),PestResistant|LowInput|FloodTolerant
+379,Spring Millet of Kilimani (2023),Intercrop
+380,Giant Sweet Potato of Hawassa (2018),DiseaseResistant
+381,Sokoto Shield Maize (1997),Intercrop|Staple
+382,Ember Tea of Hawassa (1986),DiseaseResistant|ClaySoil|DroughtTolerant
+383,Kilimani Delta Rice (1994),DualPurpose
+384,Amanzi Crest Cowpea (1983),DualPurpose|SandySoil|Rainfed
+385,Tea Spring 73 (1993),ClaySoil
+386,Wheat Crest 9 (2020),DroughtTolerant|FloodTolerant|DiseaseResistant
+387,Giant Rice of Kilimani (2019),Rainfed|HighYield|HeatTolerant
+388,Tea Spring 9 (1991),LongStorage|FloodTolerant|CashCrop
+389,Hawassa Spring Groundnut (1980),LongStorage|SandySoil
+390,Akatsi Dawn Cassava (1991),HighYield|Staple
+391,Prime Sorghum of Sokoto (1997),Rainfed
+392,Cassava Swift 46 (1999),DiseaseResistant|HighYield
+393,Hawassa Gold Cowpea (2004),LowInput|PestResistant
+394,Millet Dawn 40 (2020),Fortified|DiseaseResistant|DualPurpose
+395,Amanzi Pearl Groundnut (2008),LongStorage|Staple|Intercrop
+396,Giant Millet of Amanzi (2004),DroughtTolerant|PestResistant
+397,Sorghum Prime 6 (1989),HeatTolerant|PestResistant|SandySoil
+398,Hawassa Star Sunflower (1996),Intercrop|Fortified
+399,Cassava Shield 75 (2004),Intercrop|ClaySoil|EarlyMaturing
+400,Akatsi Shield Sweet Potato (1996),Rainfed|DualPurpose|FloodTolerant
+401,Prime Sunflower of Sokoto (2018),HighYield|DualPurpose|MarketGrade
+402,Cowpea Royal 27 (1997),DroughtTolerant|Rainfed|CashCrop
+403,Ember Tea of Akatsi (2015),HeatTolerant|DualPurpose
+404,Wheat Ember 98 (2002),HeatTolerant
+405,Swift Cassava of Hawassa (2003),Staple|HighYield|DiseaseResistant
+406,Maize Shield 75 (1993),Fortified|DualPurpose
+407,Sokoto Prime Millet (1980),DualPurpose|Rainfed
+408,Kilimani Star Maize (1991),LongStorage|Staple
+409,Hawassa Dawn Bean (1980),EarlyMaturing|DiseaseResistant|MarketGrade
+410,Summit Bean of Sokoto (1997),HeatTolerant
+411,Star Tea of Kilimani (1992),HighYield|DroughtTolerant|Staple
+412,Sorghum Spring 23 (1992),SandySoil|DiseaseResistant
+413,Akatsi Dawn Tea (2007),ClaySoil|DiseaseResistant|HighYield
+414,Sokoto Giant Millet (2005),Fortified
+415,Wheat Giant 61 (2021),DualPurpose
+416,Sweet Potato Ember 77 (1984),DroughtTolerant
+417,Swift Millet of Hawassa (1984),Rainfed|DualPurpose
+418,Amanzi Dawn Cassava (2009),DiseaseResistant
+419,Amanzi Star Groundnut (1983),DualPurpose
+420,Amanzi Dawn Maize (2007),LongStorage|CashCrop|LowInput
+421,Hawassa Spring Sunflower (2018),EarlyMaturing|LongStorage|Intercrop
+422,Sokoto Spring Wheat (2009),FloodTolerant
+423,Tea Prime 87 (1989),HeatTolerant|Rainfed|DiseaseResistant
+424,Amanzi Royal Rice (2002),HeatTolerant|CashCrop
+425,Sunflower Gold 17 (1990),Fortified|DiseaseResistant
+426,Dawn Bean of Akatsi (2020),DiseaseResistant|HighYield|CashCrop
+427,Sweet Potato Giant 59 (2015),Intercrop
+428,Giant Sunflower of Sokoto (1988),EarlyMaturing
+429,Spring Bean of Amanzi (2022),Irrigated
+430,Giant Maize of Kilimani (1997),Staple
+431,Royal Cowpea of Amanzi (2013),CashCrop
+432,Ember Groundnut of Amanzi (2014),Rainfed|HeatTolerant|Staple
+433,Tea Star 54 (2012),Fortified
+434,Dawn Maize of Kilimani (2023),DroughtTolerant|Rainfed|MarketGrade
+435,Sokoto Pearl Cowpea (2020),DualPurpose|HighYield
+436,Sokoto Dawn Bean (2003),Staple|DiseaseResistant
+437,Crest Maize of Kilimani (1992),DualPurpose|CashCrop
+438,Hawassa Pearl Cowpea (2017),DualPurpose
+439,Sokoto Delta Tea (2005),HeatTolerant|MarketGrade
+440,Gold Rice of Kilimani (1986),Rainfed|EarlyMaturing
+441,Pearl Cowpea of Hawassa (2020),SandySoil|HighYield|ClaySoil
+442,Maize Swift 52 (2006),Fortified|LongStorage
+443,Shield Wheat of Akatsi (1986),Rainfed|DiseaseResistant|CashCrop
+444,Dawn Sunflower of Hawassa (1981),Irrigated|SandySoil
+445,Swift Tea of Sokoto (2001),Intercrop|PestResistant
+446,Royal Wheat of Amanzi (1999),Rainfed
+447,Sunflower Delta 22 (2007),ClaySoil
+448,Swift Sweet Potato of Kilimani (2016),PestResistant|ClaySoil
+449,Shield Cowpea of Kilimani (2013),ClaySoil|DroughtTolerant
+450,Sweet Potato Royal 48 (2016),CashCrop
+451,Akatsi Prime Sunflower (1995),Irrigated
+452,Maize Star 20 (2000),HighYield
+453,Spring Maize of Akatsi (1988),ClaySoil
+454,Groundnut Royal 50 (1985),Rainfed
+455,Summit Maize of Sokoto (2011),DroughtTolerant|Intercrop
+456,Hawassa Ember Cassava (2015),HighYield|LowInput|Irrigated
+457,Sorghum Gold 4 (2011),ClaySoil|SandySoil|Rainfed
+458,Sweet Potato Swift 79 (2015),FloodTolerant|LowInput|SandySoil
+459,Prime Sunflower of Sokoto (2012),FloodTolerant|LowInput
+460,Sokoto Royal Bean (2012),MarketGrade
+461,Sokoto Pearl Rice (2022),DroughtTolerant
+462,Shield Cassava of Amanzi (2018),Staple|ClaySoil|PestResistant
+463,Akatsi Swift Millet (2018),FloodTolerant
+464,Cowpea Delta 63 (2005),Fortified
+465,Crest Maize of Amanzi (2018),Irrigated|Staple
+466,Kilimani Dawn Rice (2009),EarlyMaturing|SandySoil
+467,Wheat Pearl 88 (2007),DroughtTolerant|SandySoil|MarketGrade
+468,Kilimani Pearl Sweet Potato (2023),DroughtTolerant|LowInput|PestResistant
+469,Tea Prime 32 (1985),DiseaseResistant
+470,Gold Sorghum of Kilimani (1995),ClaySoil|DiseaseResistant|CashCrop
+471,Sokoto Pearl Sunflower (1988),SandySoil|MarketGrade
+472,Akatsi Star Millet (2007),CashCrop|DroughtTolerant
+473,Sweet Potato Prime 63 (2010),DroughtTolerant|PestResistant
+474,Hawassa Star Wheat (2011),PestResistant
+475,Sokoto Swift Cowpea (1986),(no traits listed)
+476,Rice Swift 55 (1998),Rainfed|ClaySoil
+477,Giant Sunflower of Akatsi (2019),DroughtTolerant|Intercrop
+478,Swift Sunflower of Sokoto (2023),MarketGrade|PestResistant
+479,Pearl Wheat of Amanzi (1996),HighYield
+480,Sunflower Spring 45 (2020),SandySoil|DualPurpose|Fortified
+481,Amanzi Ember Tea (1981),Rainfed|Staple
+482,Millet Star 84 (2008),HighYield
+483,Royal Maize of Hawassa (2022),Irrigated|ClaySoil|Fortified
+484,Hawassa Royal Cassava (1997),(no traits listed)
+485,Star Groundnut of Amanzi (1999),LongStorage|Fortified
+486,Kilimani Ember Bean (2008),ClaySoil
+487,Dawn Maize of Akatsi (1993),LongStorage|Rainfed
+488,Cassava Gold 22 (1980),FloodTolerant|CashCrop|Intercrop
+489,Akatsi Swift Sunflower (1982),MarketGrade
+490,Akatsi Spring Cassava (2015),HeatTolerant
+491,Delta Wheat of Sokoto (2023),LongStorage|DiseaseResistant
+492,Dawn Wheat of Kilimani (2007),DualPurpose
+493,Spring Bean of Akatsi (1990),Staple|ClaySoil
+494,Kilimani Spring Maize (2022),Fortified|LongStorage
+495,Hawassa Ember Sorghum (1992),Rainfed
+496,Amanzi Giant Maize (2013),Staple|Rainfed|EarlyMaturing
+497,Delta Tea of Kilimani (2003),LowInput|ClaySoil
+498,Sokoto Gold Tea (2013),ClaySoil|Irrigated
+499,Royal Tea of Hawassa (1999),Irrigated|ClaySoil
+500,Dawn Wheat of Akatsi (2023),LowInput
+501,Summit Bean of Kilimani (1983),CashCrop|LowInput
+502,Kilimani Gold Maize (2007),CashCrop
+503,Swift Wheat of Sokoto (1996),Intercrop|HighYield
+504,Crest Sorghum of Akatsi (1989),Rainfed|PestResistant|DroughtTolerant
+505,Amanzi Pearl Cowpea (1981),DiseaseResistant|Intercrop|Fortified
+506,Sokoto Star Maize (1996),DroughtTolerant|SandySoil
+507,Millet Pearl 79 (2015),Intercrop|DroughtTolerant
+508,Rice Summit 58 (2017),Staple|DroughtTolerant
+509,Wheat Pearl 25 (1980),DiseaseResistant
+510,Gold Cassava of Amanzi (1988),LongStorage
+511,Royal Tea of Sokoto (1998),ClaySoil
+512,Amanzi Prime Cowpea (1980),Rainfed|HeatTolerant
+513,Akatsi Giant Sorghum (2004),DroughtTolerant|CashCrop
+514,Cassava Pearl 63 (2001),CashCrop
+515,Amanzi Prime Cassava (1998),FloodTolerant
+516,Sweet Potato Crest 7 (2009),ClaySoil|DroughtTolerant
+517,Akatsi Summit Tea (2015),HeatTolerant|CashCrop|FloodTolerant
+518,Hawassa Spring Cowpea (2010),Rainfed|HighYield|DroughtTolerant
+519,Gold Maize of Akatsi (1996),SandySoil|CashCrop
+520,Prime Tea of Kilimani (2003),DualPurpose|DiseaseResistant
+521,Wheat Gold 29 (2012),ClaySoil
+522,Summit Maize of Akatsi (1995),FloodTolerant|Irrigated
+523,Prime Millet of Amanzi (1995),SandySoil|HighYield
+524,Hawassa Star Maize (2007),ClaySoil|PestResistant
+525,Groundnut Crest 62 (1990),DiseaseResistant
+526,Sokoto Delta Sunflower (1986),Staple|DiseaseResistant|FloodTolerant
+527,Sokoto Summit Groundnut (2018),CashCrop
+528,Shield Sunflower of Hawassa (1997),MarketGrade|LongStorage|HeatTolerant
+529,Cassava Swift 32 (2002),CashCrop|Irrigated
+530,Akatsi Royal Millet (1998),Fortified|Rainfed
+531,Kilimani Shield Millet (2011),PestResistant|SandySoil|EarlyMaturing
+532,Gold Sweet Potato of Akatsi (2019),LongStorage|Staple|HeatTolerant
+533,Kilimani Delta Bean (1995),LowInput
+534,Cassava Crest 81 (1997),LowInput|ClaySoil
+535,Hawassa Crest Bean (2011),HighYield|HeatTolerant
+536,Kilimani Shield Sorghum (2003),DualPurpose|LongStorage|FloodTolerant
+537,Royal Cassava of Kilimani (1989),Irrigated
+538,Kilimani Swift Groundnut (1986),DiseaseResistant|ClaySoil
+539,Gold Cowpea of Amanzi (1997),SandySoil|PestResistant
+540,Kilimani Delta Cassava (1983),DualPurpose
+541,Maize Crest 55 (2007),Irrigated|DualPurpose|LowInput
+542,Millet Prime 56 (1992),Staple
+543,Groundnut Crest 45 (1983),CashCrop|Staple
+544,Hawassa Delta Groundnut (2018),PestResistant|DroughtTolerant
+545,Prime Bean of Akatsi (1991),EarlyMaturing|Intercrop|LowInput
+546,Rice Prime 38 (1996),MarketGrade
+547,Gold Bean of Kilimani (1992),Irrigated|SandySoil
+548,Amanzi Royal Sunflower (2001),DroughtTolerant|Staple
+549,Kilimani Spring Rice (2017),EarlyMaturing
+550,Kilimani Pearl Sweet Potato (2017),Intercrop|PestResistant
+551,Pearl Bean of Akatsi (2018),PestResistant|ClaySoil|Intercrop
+552,Royal Bean of Amanzi (2016),Rainfed|DroughtTolerant
+553,Royal Wheat of Akatsi (2018),SandySoil|DualPurpose
+554,Wheat Summit 44 (2018),FloodTolerant|Fortified
+555,Amanzi Star Millet (1992),PestResistant|HeatTolerant|HighYield
+556,Sorghum Spring 77 (2021),HeatTolerant|HighYield
+557,Cowpea Delta 9 (2022),LowInput
+558,Sunflower Royal 62 (2006),LongStorage
+559,Cowpea Pearl 81 (1999),MarketGrade|Staple|Rainfed
+560,Hawassa Summit Bean (2021),FloodTolerant|PestResistant
+561,Delta Sorghum of Sokoto (2012),Fortified
+562,Cassava Ember 31 (2009),Intercrop|LowInput|HeatTolerant
+563,Pearl Tea of Kilimani (1988),LongStorage
+564,Gold Cassava of Hawassa (1990),Rainfed|SandySoil|MarketGrade
+565,Maize Dawn 65 (2000),Staple|DiseaseResistant
+566,Hawassa Delta Tea (2001),(no traits listed)
+567,Royal Sunflower of Amanzi (2005),DualPurpose
+568,Delta Wheat of Akatsi (1992),DualPurpose|EarlyMaturing|ClaySoil
+569,Groundnut Giant 92 (2010),DroughtTolerant|HeatTolerant
+570,Wheat Summit 88 (2011),ClaySoil|LongStorage|LowInput
+571,Hawassa Dawn Sorghum (1994),LowInput|SandySoil
+572,Millet Shield 98 (2014),PestResistant
+573,Delta Rice of Sokoto (1993),Rainfed|MarketGrade|PestResistant
+574,Swift Cowpea of Hawassa (2019),PestResistant
+575,Akatsi Summit Sweet Potato (2012),MarketGrade|SandySoil|Fortified
+576,Summit Maize of Amanzi (2023),HighYield
+577,Akatsi Delta Maize (2013),HighYield
+578,Hawassa Shield Wheat (1990),CashCrop|DroughtTolerant|Fortified
+579,Sokoto Ember Wheat (2004),LowInput|SandySoil
+580,Cassava Delta 61 (1983),ClaySoil
+581,Akatsi Crest Bean (2021),EarlyMaturing|DroughtTolerant|FloodTolerant
+582,Hawassa Giant Wheat (2010),LowInput|MarketGrade
+583,Bean Shield 90 (1989),ClaySoil|LowInput|Fortified
+584,Sokoto Summit Bean (1982),LowInput
+585,Hawassa Delta Groundnut (1982),LongStorage|DroughtTolerant|PestResistant
+586,Hawassa Giant Tea (1980),DroughtTolerant|Rainfed
+587,Hawassa Dawn Bean (2020),HeatTolerant
+588,Star Sweet Potato of Amanzi (2012),Fortified
+589,Summit Rice of Akatsi (1985),MarketGrade
+590,Sokoto Summit Sunflower (1982),LongStorage|HighYield|Rainfed
+591,Sorghum Shield 10 (2022),DiseaseResistant
+592,Dawn Rice of Kilimani (1998),Fortified|CashCrop
+593,Wheat Shield 20 (1994),Staple|PestResistant|Intercrop
+594,Kilimani Summit Rice (2011),LowInput|DiseaseResistant
+595,Spring Sorghum of Hawassa (2004),MarketGrade|DiseaseResistant
+596,Bean Summit 11 (2000),Irrigated|MarketGrade
+597,Akatsi Giant Maize (2023),Staple|Irrigated
+598,Ember Sweet Potato of Kilimani (1986),DiseaseResistant
+599,Sokoto Crest Groundnut (1980),LongStorage|DroughtTolerant
+600,Hawassa Star Maize (2009),Staple
+601,Summit Tea of Kilimani (2020),SandySoil|LongStorage|HeatTolerant
+602,Sorghum Star 98 (2001),Irrigated|Staple|PestResistant
+603,Royal Tea of Hawassa (1986),CashCrop
+604,Kilimani Spring Tea (2022),ClaySoil|SandySoil|PestResistant
+605,Crest Sunflower of Sokoto (1983),PestResistant|CashCrop|FloodTolerant
+606,Shield Sunflower of Kilimani (2010),Staple
+607,Rice Shield 70 (1995),HighYield|Staple
+608,Tea Summit 76 (2022),PestResistant|MarketGrade
+609,Tea Crest 39 (2009),Irrigated
+610,Groundnut Star 37 (2014),Fortified|DroughtTolerant
+611,Amanzi Star Bean (2020),Staple|ClaySoil|DiseaseResistant
+612,Groundnut Prime 97 (1989),PestResistant|SandySoil|LongStorage
+613,Shield Tea of Kilimani (2019),HeatTolerant
+614,Millet Ember 96 (2016),DualPurpose|Intercrop
+615,Hawassa Crest Rice (2005),Irrigated|DroughtTolerant|Rainfed
+616,Bean Prime 56 (2003),Intercrop|MarketGrade|LongStorage
+617,Amanzi Summit Tea (2016),PestResistant|CashCrop|Fortified
+618,Hawassa Pearl Sorghum (1994),Rainfed|HeatTolerant|Intercrop
+619,Maize Delta 12 (2020),Intercrop
+620,Giant Cowpea of Hawassa (1993),MarketGrade|Irrigated|DualPurpose
+621,Maize Shield 29 (2009),LongStorage|FloodTolerant
+622,Hawassa Spring Cassava (1984),ClaySoil
+623,Ember Sunflower of Akatsi (1987),MarketGrade|SandySoil|FloodTolerant
+624,Cassava Prime 61 (1990),CashCrop|DualPurpose
+625,Sokoto Royal Rice (2023),HighYield|DiseaseResistant
+626,Spring Sweet Potato of Kilimani (1999),HeatTolerant
+627,Cowpea Gold 83 (1989),ClaySoil
+628,Prime Cowpea of Amanzi (2015),MarketGrade|ClaySoil|HeatTolerant
+629,Kilimani Summit Bean (1999),Staple|Intercrop|DroughtTolerant
+630,Wheat Shield 6 (2003),DualPurpose|FloodTolerant
+631,Wheat Ember 63 (1986),HighYield
+632,Swift Sorghum of Hawassa (1988),DroughtTolerant|ClaySoil
+633,Hawassa Royal Cowpea (2008),DiseaseResistant
+634,Gold Cassava of Sokoto (2000),CashCrop|Rainfed|PestResistant
+635,Akatsi Delta Sweet Potato (2021),LowInput
+636,Dawn Sweet Potato of Amanzi (1993),DroughtTolerant
+637,Gold Cassava of Akatsi (2004),Rainfed
+638,Kilimani Dawn Cowpea (1984),Staple|PestResistant
+639,Sorghum Swift 5 (2018),SandySoil
+640,Millet Dawn 87 (1983),HeatTolerant|Irrigated|Staple
+641,Amanzi Star Sorghum (1997),Fortified|EarlyMaturing|HeatTolerant
+642,Hawassa Summit Tea (2014),DroughtTolerant|FloodTolerant|EarlyMaturing
+643,Kilimani Giant Sorghum (1980),HighYield
+644,Sunflower Prime 50 (1992),ClaySoil
+645,Millet Giant 55 (2013),Staple|Fortified
+646,Spring Bean of Amanzi (2003),SandySoil|Staple|MarketGrade
+647,Royal Bean of Sokoto (2018),Rainfed
+648,Amanzi Ember Groundnut (2016),FloodTolerant|ClaySoil
+649,Sokoto Spring Sweet Potato (2022),HighYield|Fortified|LowInput
+650,Star Wheat of Sokoto (2001),Rainfed|HighYield|Staple
+651,Sorghum Dawn 11 (1998),MarketGrade
+652,Bean Prime 60 (2021),CashCrop|DiseaseResistant|Rainfed
+653,Rice Star 11 (2013),(no traits listed)
+654,Akatsi Delta Millet (2000),SandySoil|HighYield
+655,Delta Tea of Amanzi (2011),Rainfed
+656,Shield Sunflower of Hawassa (2016),Fortified
+657,Maize Crest 30 (1994),PestResistant|Intercrop|Fortified
+658,Wheat Ember 7 (2007),LowInput|DiseaseResistant|ClaySoil
+659,Sokoto Royal Tea (2004),MarketGrade|Fortified|Intercrop
+660,Wheat Gold 5 (2013),DiseaseResistant|DroughtTolerant|Irrigated
+661,Groundnut Spring 18 (2015),DiseaseResistant|HighYield|Staple
+662,Tea Shield 65 (1992),HeatTolerant|LowInput|Fortified
+663,Amanzi Shield Tea (2003),LongStorage|Intercrop|DiseaseResistant
+664,Star Cassava of Akatsi (2002),FloodTolerant|HighYield|Staple
+665,Akatsi Delta Cowpea (1994),Rainfed
+666,Sokoto Swift Sunflower (1980),EarlyMaturing
+667,Sokoto Delta Groundnut (2019),FloodTolerant|SandySoil|DualPurpose
+668,Hawassa Crest Wheat (1988),DiseaseResistant
+669,Crest Rice of Hawassa (2022),LongStorage
+670,Akatsi Pearl Cowpea (1998),DroughtTolerant|Rainfed
+671,Groundnut Star 60 (1994),LowInput|SandySoil|MarketGrade
+672,Sweet Potato Pearl 32 (1983),DiseaseResistant|LowInput|DroughtTolerant
+673,Rice Delta 42 (1983),CashCrop|FloodTolerant
+674,Ember Wheat of Kilimani (1991),DualPurpose|MarketGrade
+675,Star Sweet Potato of Sokoto (2003),Intercrop
+676,Swift Tea of Amanzi (1982),ClaySoil
+677,Shield Millet of Sokoto (2003),Irrigated
+678,Cowpea Giant 31 (2019),LowInput|DualPurpose
+679,Summit Wheat of Amanzi (1989),PestResistant
+680,Royal Maize of Amanzi (2013),ClaySoil|DualPurpose
+681,Dawn Bean of Hawassa (1997),EarlyMaturing
+682,Tea Royal 13 (1986),DualPurpose|Staple
+683,Akatsi Royal Rice (1983),MarketGrade|DroughtTolerant
+684,Gold Sunflower of Sokoto (2012),PestResistant|HeatTolerant
+685,Dawn Tea of Akatsi (1998),ClaySoil
+686,Groundnut Pearl 33 (2020),SandySoil|ClaySoil
+687,Kilimani Ember Sweet Potato (2014),Fortified|FloodTolerant
+688,Kilimani Ember Bean (2014),MarketGrade|DroughtTolerant|Irrigated
+689,Hawassa Swift Cassava (2010),ClaySoil
+690,Cowpea Star 56 (1994),ClaySoil
+691,Amanzi Royal Groundnut (1982),CashCrop|DroughtTolerant
+692,Delta Rice of Hawassa (1989),HighYield
+693,Sweet Potato Summit 12 (2011),Fortified
+694,Dawn Tea of Hawassa (2010),Intercrop
+695,Amanzi Delta Cassava (1999),Fortified|DroughtTolerant|Rainfed
+696,Amanzi Pearl Maize (2023),EarlyMaturing|Intercrop|CashCrop
+697,Wheat Ember 51 (2004),Intercrop
+698,Summit Cassava of Amanzi (1992),EarlyMaturing|ClaySoil
+699,Kilimani Shield Wheat (2018),EarlyMaturing|Fortified
+700,Sunflower Pearl 13 (1994),HeatTolerant
+701,Amanzi Giant Bean (1990),FloodTolerant
+702,Amanzi Dawn Tea (2016),DiseaseResistant
+703,Hawassa Ember Sorghum (2000),DroughtTolerant
+704,Sorghum Ember 36 (1997),HeatTolerant|Rainfed
+705,Sokoto Summit Wheat (2002),DiseaseResistant
+706,Sokoto Summit Tea (2009),LongStorage
+707,Akatsi Royal Cowpea (2008),PestResistant|Intercrop|DroughtTolerant
+708,Akatsi Giant Tea (1982),PestResistant
+709,Groundnut Delta 90 (1985),HighYield
+710,Bean Summit 67 (1987),Staple|Rainfed|Intercrop
+711,Star Bean of Sokoto (1985),Irrigated|Staple|LowInput
+712,Hawassa Delta Tea (2017),FloodTolerant|CashCrop|Intercrop
+713,Sunflower Swift 85 (2013),MarketGrade|DualPurpose|HeatTolerant
+714,Amanzi Delta Groundnut (2019),HeatTolerant|FloodTolerant|PestResistant
+715,Star Cassava of Sokoto (2016),Irrigated
+716,Wheat Pearl 78 (1990),FloodTolerant|CashCrop
+717,Ember Bean of Amanzi (2021),MarketGrade
+718,Sokoto Pearl Sunflower (2016),Intercrop|ClaySoil|DroughtTolerant
+719,Sunflower Ember 9 (2003),ClaySoil|DiseaseResistant|CashCrop
+720,Millet Crest 88 (1980),DiseaseResistant
+721,Cassava Prime 73 (1997),DiseaseResistant|HeatTolerant|DualPurpose
+722,Kilimani Royal Sweet Potato (1997),Staple|Intercrop
+723,Shield Sorghum of Amanzi (2018),Rainfed
+724,Sorghum Prime 42 (1981),Intercrop
+725,Amanzi Gold Millet (1987),Irrigated|LowInput
+726,Sokoto Royal Cassava (2012),HeatTolerant|SandySoil
+727,Cowpea Crest 30 (2020),LongStorage|DualPurpose
+728,Sweet Potato Pearl 64 (2010),Irrigated|EarlyMaturing
+729,Wheat Pearl 47 (2002),(no traits listed)
+730,Delta Cassava of Kilimani (1982),Staple|Rainfed
+731,Giant Tea of Hawassa (2004),LongStorage
+732,Akatsi Ember Maize (2019),Fortified
+733,Bean Swift 82 (1996),Staple
+734,Sokoto Royal Sorghum (1991),FloodTolerant|Rainfed|DualPurpose
+735,Hawassa Star Maize (2002),PestResistant|Staple
+736,Summit Groundnut of Hawassa (1991),Staple|PestResistant
+737,Hawassa Royal Maize (2005),Irrigated
+738,Delta Bean of Sokoto (2002),Staple|HighYield|MarketGrade
+739,Shield Cowpea of Hawassa (1980),EarlyMaturing|Irrigated|PestResistant
+740,Sokoto Prime Rice (2005),CashCrop|MarketGrade
+741,Pearl Millet of Sokoto (2011),DroughtTolerant
+742,Hawassa Crest Rice (2007),FloodTolerant|LowInput
+743,Kilimani Dawn Groundnut (1995),Irrigated
+744,Hawassa Pearl Wheat (1987),Fortified
+745,Crest Cowpea of Akatsi (1986),EarlyMaturing|Staple|HeatTolerant
+746,Hawassa Spring Sorghum (2015),HighYield|PestResistant|Intercrop
+747,Summit Bean of Akatsi (2022),HighYield|DroughtTolerant|FloodTolerant
+748,Amanzi Swift Tea (1990),ClaySoil|HeatTolerant
+749,Sweet Potato Prime 98 (1987),CashCrop|Rainfed
+750,Tea Delta 62 (2002),DroughtTolerant
+751,Royal Tea of Sokoto (1983),EarlyMaturing
+752,Wheat Delta 60 (1981),HighYield|Staple|EarlyMaturing
+753,Ember Maize of Amanzi (2011),DualPurpose|DiseaseResistant|ClaySoil
+754,Bean Star 82 (2007),LowInput|Fortified
+755,Sokoto Prime Wheat (1997),LongStorage
+756,Spring Bean of Akatsi (1987),SandySoil|DroughtTolerant
+757,Amanzi Summit Bean (1983),LongStorage
+758,Sorghum Dawn 12 (2019),Intercrop|ClaySoil
+759,Sunflower Spring 74 (1993),LowInput
+760,Spring Sunflower of Hawassa (2020),CashCrop|DroughtTolerant
+761,Cassava Summit 4 (1993),LowInput|SandySoil|HighYield
+762,Star Wheat of Hawassa (1987),FloodTolerant|DiseaseResistant|MarketGrade
+763,Wheat Prime 58 (1992),DualPurpose|LongStorage|Intercrop
+764,Amanzi Delta Sweet Potato (1990),LowInput
+765,Kilimani Pearl Cassava (1993),Fortified|Irrigated
+766,Giant Sunflower of Akatsi (1990),Staple|LowInput
+767,Akatsi Ember Sweet Potato (2009),Irrigated
+768,Sorghum Delta 69 (2023),CashCrop
+769,Hawassa Delta Wheat (2019),HighYield|Intercrop
+770,Delta Cassava of Amanzi (2023),Rainfed|ClaySoil
+771,Star Sorghum of Hawassa (2022),DualPurpose|CashCrop
+772,Sweet Potato Star 90 (1998),LongStorage|HeatTolerant
+773,Maize Giant 47 (2010),DualPurpose
+774,Tea Dawn 98 (1981),MarketGrade|CashCrop
+775,Swift Wheat of Sokoto (2000),ClaySoil|Staple
+776,Wheat Spring 3 (2004),EarlyMaturing
+777,Sokoto Summit Cowpea (2014),PestResistant
+778,Dawn Cassava of Akatsi (2022),MarketGrade|LowInput|DroughtTolerant
+779,Groundnut Ember 35 (2002),CashCrop|LongStorage|HeatTolerant
+780,Bean Dawn 60 (2000),LongStorage|HighYield|DiseaseResistant
+781,Sorghum Delta 95 (1998),HighYield
+782,Millet Gold 27 (2011),LowInput
+783,Pearl Cassava of Hawassa (1997),Rainfed
+784,Ember Sweet Potato of Amanzi (2016),PestResistant|CashCrop|ClaySoil
+785,Giant Tea of Sokoto (2009),DualPurpose|LongStorage|Fortified
+786,Hawassa Ember Cassava (2022),MarketGrade|Irrigated|Staple
+787,Gold Cassava of Hawassa (2011),EarlyMaturing|Rainfed|LowInput
+788,Hawassa Crest Sorghum (1981),HeatTolerant|DroughtTolerant
+789,Sorghum Summit 57 (1987),Intercrop|EarlyMaturing|LowInput
+790,Bean Star 95 (1986),DroughtTolerant|FloodTolerant|MarketGrade
+791,Star Tea of Hawassa (2007),FloodTolerant
+792,Cowpea Swift 46 (1997),DiseaseResistant|DualPurpose|LongStorage
+793,Amanzi Spring Bean (2015),DiseaseResistant|LongStorage|FloodTolerant
+794,Hawassa Gold Wheat (1987),Intercrop|SandySoil|HighYield
+795,Maize Prime 14 (2003),HeatTolerant|ClaySoil|HighYield
+796,Wheat Swift 12 (1985),(no traits listed)
+797,Ember Millet of Akatsi (2011),DroughtTolerant|Intercrop
+798,Rice Swift 93 (2003),HeatTolerant|SandySoil
+799,Akatsi Swift Wheat (2001),EarlyMaturing
+800,Hawassa Spring Wheat (1992),Staple
+801,Sokoto Swift Wheat (2013),Intercrop|DroughtTolerant|SandySoil
+802,Sorghum Prime 62 (2010),Staple
+803,Cowpea Gold 49 (2021),Fortified
+804,Groundnut Swift 31 (1982),PestResistant|EarlyMaturing|LongStorage
+805,Sokoto Shield Bean (2019),DualPurpose
+806,Cowpea Delta 84 (1980),CashCrop|DroughtTolerant
+807,Akatsi Pearl Cassava (2002),Intercrop|Fortified
+808,Ember Groundnut of Amanzi (2005),CashCrop|MarketGrade|FloodTolerant
+809,Kilimani Spring Cowpea (2004),Staple|Irrigated
+810,Wheat Delta 29 (1983),Rainfed|Irrigated
+811,Sokoto Swift Sweet Potato (1980),SandySoil|DroughtTolerant
+812,Akatsi Dawn Sweet Potato (1981),DiseaseResistant|ClaySoil|CashCrop
+813,Giant Tea of Kilimani (2020),HighYield|MarketGrade
+814,Akatsi Delta Sweet Potato (1995),PestResistant|Rainfed
+815,Kilimani Pearl Sorghum (1999),DualPurpose|Staple|PestResistant
+816,Ember Bean of Kilimani (2018),PestResistant
+817,Akatsi Pearl Millet (1980),PestResistant
+818,Maize Shield 33 (2008),LongStorage|MarketGrade
+819,Wheat Dawn 95 (1997),LowInput
+820,Shield Sunflower of Amanzi (1984),DiseaseResistant|LongStorage|EarlyMaturing
+821,Summit Cowpea of Kilimani (2009),DiseaseResistant|PestResistant|DroughtTolerant
+822,Sokoto Swift Cowpea (2013),LowInput|Staple|FloodTolerant
+823,Prime Sunflower of Amanzi (1991),HeatTolerant|CashCrop
+824,Crest Maize of Hawassa (2016),DiseaseResistant|EarlyMaturing
+825,Star Cassava of Kilimani (1992),EarlyMaturing
+826,Maize Royal 86 (1997),HeatTolerant|LowInput
+827,Amanzi Spring Groundnut (2011),Staple|ClaySoil|HighYield
+828,Kilimani Pearl Cowpea (2011),FloodTolerant|Fortified|Intercrop
+829,Cassava Giant 7 (2004),Fortified|PestResistant|SandySoil
+830,Cowpea Shield 28 (1992),Intercrop
+831,Shield Cassava of Kilimani (1994),ClaySoil|DroughtTolerant|CashCrop
+832,Amanzi Pearl Sunflower (2017),LowInput|DualPurpose|DroughtTolerant
+833,Sokoto Delta Sunflower (2017),FloodTolerant|Intercrop
+834,Akatsi Delta Cassava (2000),EarlyMaturing|Irrigated|ClaySoil
+835,Maize Delta 21 (2023),Intercrop|DroughtTolerant
+836,Akatsi Prime Cowpea (2004),CashCrop|ClaySoil
+837,Akatsi Dawn Groundnut (1989),ClaySoil|LowInput
+838,Crest Sweet Potato of Kilimani (1996),(no traits listed)
+839,Kilimani Giant Bean (2010),(no traits listed)
+840,Groundnut Royal 19 (2002),Intercrop
+841,Ember Millet of Akatsi (1986),CashCrop|Rainfed|DroughtTolerant
+842,Pearl Sweet Potato of Amanzi (2013),EarlyMaturing|DroughtTolerant
+843,Delta Sweet Potato of Kilimani (1981),MarketGrade|EarlyMaturing
+844,Sokoto Delta Sorghum (2000),(no traits listed)
+845,Hawassa Dawn Wheat (1987),SandySoil|LongStorage
+846,Tea Ember 78 (2010),Rainfed|ClaySoil|Intercrop
+847,Summit Sunflower of Amanzi (1999),DualPurpose|SandySoil|Intercrop
+848,Amanzi Star Bean (2013),DiseaseResistant|PestResistant|LowInput
+849,Amanzi Gold Groundnut (2022),SandySoil
+850,Prime Sunflower of Hawassa (2020),Intercrop|MarketGrade|PestResistant
+851,Akatsi Star Sunflower (2009),Irrigated|Intercrop|HighYield
+852,Hawassa Shield Sunflower (2000),Fortified|DualPurpose|MarketGrade
+853,Sokoto Royal Rice (2006),Intercrop
+854,Bean Delta 2 (1988),HighYield|DualPurpose|SandySoil
+855,Wheat Star 20 (1990),DualPurpose|EarlyMaturing|Intercrop
+856,Groundnut Spring 53 (1984),FloodTolerant
+857,Pearl Maize of Sokoto (2002),HighYield|HeatTolerant|EarlyMaturing
+858,Dawn Cassava of Hawassa (2020),DiseaseResistant
+859,Kilimani Shield Cowpea (2007),HeatTolerant|PestResistant
+860,Bean Giant 7 (1993),Fortified|EarlyMaturing|ClaySoil
+861,Spring Cassava of Amanzi (2006),HeatTolerant
+862,Delta Sorghum of Sokoto (1986),DualPurpose
+863,Hawassa Ember Wheat (2020),Rainfed
+864,Maize Summit 75 (2020),HeatTolerant
+865,Summit Bean of Amanzi (2001),Staple|DiseaseResistant
+866,Akatsi Giant Rice (2023),DualPurpose|LongStorage
+867,Cassava Pearl 24 (2008),Intercrop
+868,Spring Sunflower of Amanzi (1995),Rainfed
+869,Bean Royal 43 (2006),Staple|ClaySoil|LongStorage
+870,Rice Ember 86 (1982),EarlyMaturing|CashCrop
+871,Sweet Potato Crest 48 (2015),DualPurpose|LowInput
+872,Amanzi Delta Rice (1999),Intercrop
+873,Bean Crest 98 (1990),MarketGrade
+874,Cassava Dawn 13 (1997),Intercrop|Rainfed
+875,Akatsi Spring Sorghum (2014),Fortified
+876,Swift Bean of Sokoto (2022),HeatTolerant|CashCrop|Fortified
+877,Sokoto Swift Rice (2019),DroughtTolerant|PestResistant
+878,Hawassa Gold Sorghum (2000),ClaySoil
+879,Summit Millet of Amanzi (2016),PestResistant|EarlyMaturing
+880,Tea Delta 58 (2001),Staple|DiseaseResistant
+881,Hawassa Summit Sorghum (2018),DualPurpose|EarlyMaturing
+882,Akatsi Swift Millet (1999),EarlyMaturing
+883,Cowpea Prime 27 (1999),EarlyMaturing|Intercrop|LongStorage
+884,Cassava Ember 74 (1990),ClaySoil
+885,Ember Groundnut of Sokoto (1998),CashCrop
+886,Sunflower Star 62 (2006),MarketGrade
+887,Sokoto Giant Sorghum (2001),FloodTolerant|Irrigated
+888,Sunflower Gold 10 (1982),LongStorage|LowInput
+889,Kilimani Giant Wheat (1999),LowInput|SandySoil|CashCrop
+890,Kilimani Dawn Wheat (1992),PestResistant|FloodTolerant
+891,Millet Spring 43 (2005),HeatTolerant
+892,Cassava Shield 88 (1992),Irrigated|HighYield
+893,Kilimani Giant Wheat (1994),SandySoil|Intercrop|Fortified
+894,Amanzi Pearl Rice (1982),DroughtTolerant|PestResistant
+895,Pearl Sorghum of Kilimani (2006),ClaySoil
+896,Rice Spring 88 (2022),Fortified|MarketGrade
+897,Kilimani Star Sorghum (2000),LowInput|SandySoil|DualPurpose
+898,Sokoto Ember Wheat (1980),DiseaseResistant|SandySoil|CashCrop
+899,Sunflower Gold 10 (2014),DualPurpose|EarlyMaturing|DroughtTolerant
+900,Tea Summit 41 (2005),Staple|DualPurpose
+901,Crest Cassava of Sokoto (2016),Rainfed|LowInput|FloodTolerant
+902,Sokoto Pearl Millet (2017),EarlyMaturing|ClaySoil|HeatTolerant
+903,Cowpea Giant 68 (2016),Fortified
+904,Royal Sunflower of Sokoto (1986),HighYield|ClaySoil
+905,Amanzi Ember Groundnut (2010),HighYield|PestResistant
+906,Gold Groundnut of Hawassa (1985),MarketGrade
+907,Kilimani Swift Wheat (1985),EarlyMaturing|MarketGrade|FloodTolerant
+908,Cassava Delta 26 (1994),MarketGrade
+909,Hawassa Crest Bean (1989),(no traits listed)
+910,Hawassa Delta Cassava (2021),HeatTolerant|Irrigated|EarlyMaturing
+911,Sunflower Pearl 39 (1983),PestResistant|FloodTolerant|DiseaseResistant
+912,Summit Bean of Akatsi (2016),Irrigated
+913,Millet Royal 97 (2012),DiseaseResistant
+914,Sokoto Delta Tea (2021),ClaySoil|HighYield
+915,Spring Cassava of Akatsi (2003),Fortified|Staple
+916,Tea Summit 83 (1996),DroughtTolerant|Intercrop|DualPurpose
+917,Swift Sorghum of Sokoto (2005),MarketGrade
+918,Giant Maize of Akatsi (2006),DualPurpose|EarlyMaturing
+919,Akatsi Royal Wheat (2019),LowInput|DiseaseResistant
+920,Dawn Millet of Sokoto (1981),LowInput|LongStorage|HeatTolerant
+921,Gold Bean of Akatsi (2003),HeatTolerant|FloodTolerant
+922,Sokoto Royal Rice (1986),FloodTolerant
+923,Amanzi Shield Cowpea (2019),FloodTolerant
+924,Ember Tea of Sokoto (2019),DualPurpose|Staple|DroughtTolerant
+925,Sorghum Dawn 28 (2005),HighYield
+926,Spring Cowpea of Amanzi (1987),FloodTolerant
+927,Prime Cassava of Amanzi (2023),DroughtTolerant|DualPurpose
+928,Star Rice of Sokoto (1988),SandySoil|ClaySoil|HeatTolerant
+929,Kilimani Star Cowpea (2008),FloodTolerant
+930,Royal Maize of Sokoto (1981),HighYield|Fortified|DiseaseResistant
+931,Maize Shield 12 (2021),Intercrop|CashCrop|HeatTolerant
+932,Groundnut Giant 73 (2012),Rainfed|DroughtTolerant
+933,Crest Sweet Potato of Amanzi (2003),Rainfed
+934,Sunflower Swift 78 (2017),LowInput|EarlyMaturing|Staple
+935,Wheat Delta 87 (2015),PestResistant|DiseaseResistant|LongStorage
+936,Kilimani Star Cassava (2013),LowInput
+937,Tea Royal 26 (2007),MarketGrade
+938,Akatsi Summit Cassava (2007),HeatTolerant
+939,Star Millet of Hawassa (1980),LongStorage|Irrigated|EarlyMaturing
+940,Shield Cowpea of Amanzi (2002),HighYield|DualPurpose
+941,Hawassa Swift Maize (1997),MarketGrade|HighYield|CashCrop
+942,Millet Gold 55 (1985),FloodTolerant|LowInput
+943,Summit Cowpea of Hawassa (2015),Staple
+944,Spring Maize of Amanzi (1998),LongStorage
+945,Swift Sweet Potato of Akatsi (2010),PestResistant
+946,Sunflower Prime 44 (1987),DiseaseResistant|LongStorage|SandySoil
+947,Wheat Dawn 3 (2021),DroughtTolerant
+948,Sokoto Pearl Bean (2003),(no traits listed)
+949,Akatsi Prime Cassava (2001),Staple|Intercrop
+950,Sokoto Delta Cassava (2013),Staple
+951,Hawassa Spring Sunflower (2007),LongStorage|Irrigated|PestResistant
+952,Delta Tea of Akatsi (2012),EarlyMaturing|HeatTolerant|Irrigated
+953,Wheat Swift 44 (2016),SandySoil|HeatTolerant
+954,Prime Groundnut of Sokoto (2008),HeatTolerant|Irrigated|HighYield
+955,Cassava Swift 71 (2013),Intercrop
+956,Summit Sorghum of Amanzi (1989),LongStorage
+957,Sokoto Swift Bean (2008),Rainfed|MarketGrade|PestResistant
+958,Star Sunflower of Akatsi (2011),Irrigated
+959,Akatsi Pearl Maize (2003),DualPurpose
+960,Hawassa Shield Sweet Potato (2001),EarlyMaturing|DualPurpose
+961,Tea Spring 84 (2003),ClaySoil
+962,Maize Crest 89 (2022),HighYield
+963,Millet Ember 17 (1986),HeatTolerant|ClaySoil|EarlyMaturing
+964,Kilimani Dawn Sorghum (1992),HeatTolerant
+965,Cassava Ember 18 (2019),HeatTolerant|Irrigated
+966,Wheat Swift 72 (2004),PestResistant|ClaySoil|DiseaseResistant
+967,Akatsi Star Sweet Potato (1985),SandySoil|LongStorage
+968,Gold Tea of Akatsi (1982),DroughtTolerant
+969,Kilimani Giant Groundnut (2016),Staple|SandySoil
+970,Sokoto Gold Sweet Potato (1985),Irrigated|SandySoil|CashCrop
+971,Cowpea Royal 78 (1995),LowInput|MarketGrade|LongStorage
+972,Kilimani Prime Cowpea (1982),CashCrop|DualPurpose|Irrigated
+973,Spring Rice of Sokoto (2013),Fortified|Rainfed
+974,Groundnut Spring 21 (1985),FloodTolerant|Rainfed
+975,Sunflower Shield 35 (2015),DroughtTolerant|DiseaseResistant
+976,Ember Tea of Kilimani (2023),HeatTolerant|Intercrop|ClaySoil
+977,Bean Ember 74 (2013),EarlyMaturing|DualPurpose
+978,Kilimani Dawn Sweet Potato (1995),Fortified|HeatTolerant|PestResistant
+979,Royal Cassava of Sokoto (1996),MarketGrade|HighYield|LongStorage
+980,Sweet Potato Spring 97 (2023),LowInput|Rainfed
+981,Sunflower Star 82 (2022),Intercrop
+982,Giant Wheat of Kilimani (1983),LongStorage
+983,Wheat Summit 22 (1996),(no traits listed)
+984,Sokoto Delta Sweet Potato (2021),LowInput|MarketGrade
+985,Hawassa Royal Sorghum (1985),Rainfed
+986,Sokoto Spring Rice (2010),LongStorage
+987,Sorghum Prime 61 (2004),Irrigated|DualPurpose|Intercrop
+988,Giant Cassava of Hawassa (2022),Intercrop|LowInput|Staple
+989,Spring Maize of Sokoto (2007),HeatTolerant|Fortified|DroughtTolerant
+990,Amanzi Dawn Bean (2014),Rainfed
+991,Akatsi Swift Tea (2020),Intercrop|CashCrop|Rainfed
+992,Kilimani Royal Millet (2002),LowInput|Irrigated|Intercrop
+993,Wheat Pearl 5 (1990),PestResistant|MarketGrade
+994,Maize Star 26 (1996),LowInput
+995,Hawassa Summit Cassava (1983),PestResistant|FloodTolerant|Staple
+996,Swift Groundnut of Hawassa (2003),HighYield|SandySoil|LongStorage
+997,Sokoto Summit Sunflower (1991),Irrigated|Fortified
+998,Swift Sweet Potato of Hawassa (2023),Intercrop|EarlyMaturing|LowInput
+999,Rice Royal 34 (1999),HeatTolerant
+1000,Sokoto Crest Maize (2013),Irrigated
+1001,Ember Millet of Akatsi (1989),Fortified|DroughtTolerant|SandySoil
+1002,Maize Prime 74 (2003),CashCrop|LongStorage
+1003,Tea Star 12 (2000),PestResistant|MarketGrade|CashCrop
+1004,Sunflower Star 60 (1985),HighYield
+1005,Sokoto Pearl Tea (2014),HeatTolerant|Staple|HighYield
+1006,Giant Sunflower of Kilimani (2005),HighYield
+1007,Akatsi Shield Sunflower (1996),LongStorage
+1008,Hawassa Gold Maize (2002),HighYield|HeatTolerant|CashCrop
+1009,Hawassa Summit Maize (1982),CashCrop|LongStorage|DroughtTolerant
+1010,Sunflower Summit 46 (2002),DualPurpose
+1011,Rice Giant 68 (1987),HighYield
+1012,Spring Bean of Sokoto (2018),HeatTolerant
+1013,Millet Gold 44 (1980),LowInput|HighYield
+1014,Hawassa Summit Sweet Potato (2010),ClaySoil
+1015,Kilimani Star Groundnut (2021),Irrigated|HeatTolerant
+1016,Summit Maize of Akatsi (1987),EarlyMaturing|PestResistant|LongStorage
+1017,Maize Summit 55 (2007),FloodTolerant|LongStorage|LowInput
+1018,Crest Rice of Kilimani (1990),ClaySoil|HeatTolerant
+1019,Prime Groundnut of Kilimani (1996),MarketGrade|SandySoil|DroughtTolerant
+1020,Dawn Cowpea of Sokoto (1981),ClaySoil|MarketGrade|FloodTolerant
+1021,Tea Ember 48 (1999),(no traits listed)
+1022,Giant Maize of Kilimani (1993),EarlyMaturing|DualPurpose|FloodTolerant
+1023,Akatsi Delta Sorghum (1982),Irrigated|Fortified
+1024,Sokoto Shield Millet (2007),LongStorage|Rainfed
+1025,Tea Summit 90 (1985),CashCrop|DualPurpose|Rainfed
+1026,Kilimani Delta Sorghum (1981),ClaySoil|CashCrop|HighYield
+1027,Sorghum Giant 65 (2023),FloodTolerant|DroughtTolerant
+1028,Cassava Royal 64 (2006),MarketGrade|ClaySoil
+1029,Pearl Sunflower of Hawassa (1997),DroughtTolerant|ClaySoil|FloodTolerant
+1030,Rice Dawn 92 (1982),FloodTolerant|DiseaseResistant|DualPurpose
+1031,Ember Rice of Hawassa (1986),DiseaseResistant|Irrigated
+1032,Sweet Potato Gold 84 (2007),Intercrop|HighYield|ClaySoil
+1033,Sokoto Delta Maize (2011),Rainfed
+1034,Swift Sweet Potato of Kilimani (2015),ClaySoil|CashCrop|EarlyMaturing
+1035,Cassava Star 60 (2016),DroughtTolerant|MarketGrade|ClaySoil
+1036,Akatsi Giant Cassava (1983),HighYield
+1037,Cowpea Delta 45 (2011),MarketGrade|HighYield|LongStorage
+1038,Gold Bean of Hawassa (1983),Intercrop|Fortified
+1039,Dawn Millet of Akatsi (1985),Staple
+1040,Cassava Star 71 (2019),ClaySoil
+1041,Hawassa Crest Cassava (2014),Irrigated
+1042,Akatsi Crest Wheat (1987),CashCrop|Rainfed|SandySoil
+1043,Bean Pearl 72 (2023),Rainfed|SandySoil|Staple
+1044,Sunflower Swift 86 (2005),Staple|Intercrop
+1045,Kilimani Ember Sunflower (2013),LowInput|LongStorage|DiseaseResistant
+1046,Swift Bean of Kilimani (2015),HeatTolerant
+1047,Pearl Wheat of Amanzi (2021),Irrigated|Rainfed|ClaySoil
+1048,Kilimani Star Cowpea (2023),HeatTolerant
+1049,Sunflower Pearl 50 (2001),FloodTolerant|PestResistant|Fortified
+1050,Royal Groundnut of Akatsi (2008),Rainfed|FloodTolerant
+1051,Spring Maize of Kilimani (2019),SandySoil|Intercrop
+1052,Rice Star 31 (2003),Fortified|DiseaseResistant
+1053,Summit Rice of Akatsi (1991),Intercrop|EarlyMaturing
+1054,Sokoto Dawn Sweet Potato (2017),HeatTolerant|DroughtTolerant
+1055,Summit Tea of Akatsi (2007),HighYield
+1056,Sokoto Dawn Wheat (1986),HighYield|HeatTolerant
+1057,Akatsi Ember Sorghum (1997),DiseaseResistant|LowInput
+1058,Bean Spring 64 (2021),DiseaseResistant
+1059,Amanzi Star Maize (2021),SandySoil|Irrigated|ClaySoil
+1060,Royal Maize of Kilimani (2006),DualPurpose|DroughtTolerant|LowInput
+1061,Bean Dawn 25 (1989),HeatTolerant
+1062,Akatsi Giant Cowpea (2016),Fortified|SandySoil
+1063,Hawassa Crest Bean (2017),ClaySoil|CashCrop|LowInput
+1064,Dawn Sunflower of Kilimani (1980),Staple|HeatTolerant
+1065,Rice Delta 68 (1984),SandySoil
+1066,Groundnut Shield 18 (1983),(no traits listed)
+1067,Kilimani Crest Sunflower (1997),DroughtTolerant|LowInput|FloodTolerant
+1068,Hawassa Crest Bean (1980),MarketGrade
+1069,Tea Swift 22 (1983),CashCrop|LowInput|FloodTolerant
+1070,Tea Star 71 (2013),HeatTolerant|DroughtTolerant|PestResistant
+1071,Kilimani Gold Maize (1981),LongStorage|HighYield|DualPurpose
+1072,Prime Groundnut of Amanzi (2000),Fortified|MarketGrade
+1073,Hawassa Summit Cassava (1995),Fortified
+1074,Akatsi Crest Millet (1989),MarketGrade|HeatTolerant|Fortified
+1075,Bean Swift 59 (2003),MarketGrade|Staple|PestResistant
+1076,Wheat Delta 30 (1982),PestResistant
+1077,Spring Millet of Akatsi (2016),Intercrop
+1078,Groundnut Giant 68 (2008),DroughtTolerant
+1079,Sweet Potato Giant 39 (1988),HeatTolerant|LongStorage
+1080,Hawassa Giant Cassava (1999),LowInput|Intercrop
+1081,Dawn Groundnut of Kilimani (2018),Staple
+1082,Sorghum Swift 67 (2005),EarlyMaturing|MarketGrade|HighYield
+1083,Maize Prime 14 (2013),FloodTolerant|LowInput
+1084,Maize Dawn 49 (1990),EarlyMaturing
+1085,Sokoto Summit Maize (2006),FloodTolerant
+1086,Swift Wheat of Amanzi (2005),Staple|Irrigated|CashCrop
+1087,Gold Maize of Hawassa (1984),HighYield
+1088,Dawn Cassava of Kilimani (1987),CashCrop
+1089,Kilimani Delta Rice (1982),LongStorage
+1090,Shield Sweet Potato of Sokoto (2009),HighYield|EarlyMaturing
+1091,Kilimani Ember Cowpea (1998),LongStorage|FloodTolerant
+1092,Bean Ember 98 (2003),Staple|DroughtTolerant|Fortified
+1093,Ember Millet of Hawassa (2007),DualPurpose|HighYield
+1094,Shield Sunflower of Amanzi (2009),HighYield|DroughtTolerant|EarlyMaturing
+1095,Kilimani Crest Maize (2019),Fortified
+1096,Ember Maize of Hawassa (1993),Intercrop|DroughtTolerant
+1097,Sorghum Royal 59 (1995),DiseaseResistant
+1098,Ember Cowpea of Akatsi (2012),MarketGrade
+1099,Tea Summit 60 (1998),LowInput|Staple
+1100,Swift Rice of Akatsi (2021),Irrigated
+1101,Royal Tea of Amanzi (1999),DiseaseResistant
+1102,Cassava Star 5 (1993),LongStorage
+1103,Sorghum Delta 11 (2014),HeatTolerant|HighYield
+1104,Tea Summit 43 (2022),CashCrop
+1105,Sokoto Shield Bean (1999),FloodTolerant|CashCrop
+1106,Sokoto Prime Sweet Potato (2019),ClaySoil|Rainfed|HighYield
+1107,Sokoto Shield Sweet Potato (2004),DroughtTolerant|DiseaseResistant|SandySoil
+1108,Hawassa Dawn Millet (1995),DualPurpose|CashCrop
+1109,Amanzi Crest Sunflower (2003),PestResistant|DiseaseResistant|LowInput
+1110,Sokoto Giant Bean (2021),CashCrop|HeatTolerant|Irrigated
+1111,Kilimani Giant Cowpea (1981),PestResistant|MarketGrade|Intercrop
+1112,Amanzi Prime Millet (1981),ClaySoil
+1113,Sunflower Pearl 93 (1984),FloodTolerant|MarketGrade
+1114,Kilimani Crest Sweet Potato (2001),LongStorage|Irrigated
+1115,Swift Wheat of Hawassa (1988),EarlyMaturing
+1116,Tea Royal 39 (2008),HighYield
+1117,Kilimani Delta Millet (2004),CashCrop|PestResistant|MarketGrade
+1118,Hawassa Gold Tea (2002),DualPurpose|HighYield|LongStorage
+1119,Amanzi Gold Cassava (1995),HeatTolerant
+1120,Kilimani Prime Cassava (1980),MarketGrade
+1121,Swift Millet of Hawassa (2002),MarketGrade|EarlyMaturing|SandySoil
+1122,Sokoto Summit Wheat (2021),DiseaseResistant
+1123,Sunflower Royal 11 (2006),Rainfed
+1124,Amanzi Delta Maize (2015),MarketGrade|HighYield|HeatTolerant
+1125,Gold Wheat of Sokoto (2015),ClaySoil|PestResistant|Staple
+1126,Amanzi Pearl Wheat (1992),DualPurpose|ClaySoil|LowInput
+1127,Bean Pearl 98 (1988),LowInput
+1128,Ember Bean of Akatsi (2011),CashCrop|EarlyMaturing|Fortified
+1129,Swift Maize of Kilimani (2003),LongStorage
+1130,Ember Bean of Kilimani (1984),Staple
+1131,Kilimani Pearl Sorghum (2003),DualPurpose|HeatTolerant
+1132,Akatsi Swift Sorghum (2010),MarketGrade|HighYield
+1133,Dawn Rice of Sokoto (1987),MarketGrade
+1134,Summit Rice of Hawassa (2005),MarketGrade|CashCrop|Fortified
+1135,Amanzi Pearl Cassava (1994),EarlyMaturing|PestResistant
+1136,Sokoto Shield Rice (2004),CashCrop
+1137,Akatsi Swift Bean (2015),Fortified|Rainfed
+1138,Gold Cowpea of Hawassa (2021),LowInput
+1139,Amanzi Prime Maize (1992),EarlyMaturing|SandySoil|HeatTolerant
+1140,Hawassa Gold Millet (2013),MarketGrade|EarlyMaturing|Fortified
+1141,Amanzi Spring Cassava (2013),DiseaseResistant
+1142,Ember Tea of Kilimani (1990),Staple
+1143,Royal Cowpea of Sokoto (1982),LowInput|DiseaseResistant|FloodTolerant
+1144,Kilimani Summit Rice (2005),Rainfed|LongStorage
+1145,Sokoto Ember Sorghum (1987),DroughtTolerant|DiseaseResistant
+1146,Amanzi Star Wheat (2016),PestResistant|ClaySoil
+1147,Sokoto Giant Sweet Potato (2008),PestResistant|LowInput
+1148,Akatsi Dawn Sorghum (2003),DualPurpose|EarlyMaturing
+1149,Dawn Wheat of Sokoto (1994),LowInput
+1150,Dawn Bean of Akatsi (1984),DualPurpose|LongStorage|CashCrop
+1151,Sorghum Crest 18 (2005),SandySoil
+1152,Kilimani Giant Sunflower (2014),DualPurpose
+1153,Ember Sunflower of Amanzi (2021),PestResistant|Intercrop
+1154,Akatsi Giant Tea (2008),LowInput
+1155,Crest Cassava of Amanzi (2014),MarketGrade|EarlyMaturing|SandySoil
+1156,Sunflower Spring 72 (2010),Irrigated
+1157,Akatsi Gold Cassava (1989),Staple
+1158,Swift Sweet Potato of Sokoto (2007),CashCrop|MarketGrade|DroughtTolerant
+1159,Sorghum Pearl 18 (2021),MarketGrade|CashCrop|HeatTolerant
+1160,Sorghum Star 70 (1984),FloodTolerant|DiseaseResistant
+1161,Summit Sweet Potato of Hawassa (2009),EarlyMaturing
+1162,Dawn Sunflower of Hawassa (1998),HeatTolerant|DiseaseResistant
+1163,Sokoto Swift Bean (1992),HighYield|Staple|CashCrop
+1164,Bean Star 7 (1998),PestResistant
+1165,Sunflower Gold 53 (1992),Staple|DualPurpose
+1166,Kilimani Giant Maize (2000),Fortified|Intercrop|EarlyMaturing
+1167,Shield Bean of Sokoto (2011),SandySoil|DroughtTolerant
+1168,Millet Summit 81 (2018),(no traits listed)
+1169,Kilimani Swift Cowpea (1987),Rainfed|HeatTolerant|Intercrop
+1170,Cowpea Spring 73 (1984),FloodTolerant|Fortified|DroughtTolerant
+1171,Star Sweet Potato of Amanzi (2004),LongStorage
+1172,Akatsi Gold Sorghum (2003),HighYield|EarlyMaturing
+1173,Amanzi Gold Bean (1980),EarlyMaturing|MarketGrade|DualPurpose
+1174,Hawassa Shield Groundnut (2003),LowInput|EarlyMaturing
+1175,Giant Rice of Sokoto (2016),FloodTolerant
+1176,Sokoto Star Tea (2009),DiseaseResistant|CashCrop|Rainfed
+1177,Crest Groundnut of Kilimani (2017),LongStorage
+1178,Cowpea Star 6 (1993),Intercrop|Staple|SandySoil
+1179,Sorghum Pearl 29 (1993),Irrigated
+1180,Delta Sweet Potato of Hawassa (2019),HeatTolerant
+1181,Cowpea Prime 61 (2007),HighYield|SandySoil
+1182,Hawassa Shield Groundnut (2000),LowInput
+1183,Maize Gold 4 (1995),HeatTolerant|Staple|Irrigated
+1184,Prime Cowpea of Akatsi (2005),ClaySoil|DiseaseResistant|Irrigated
+1185,Tea Pearl 72 (2017),MarketGrade|FloodTolerant|DroughtTolerant
+1186,Sokoto Summit Rice (1982),FloodTolerant|CashCrop
+1187,Cowpea Ember 10 (2005),Irrigated|FloodTolerant|HeatTolerant
+1188,Gold Bean of Akatsi (2012),ClaySoil|CashCrop|SandySoil
+1189,Cowpea Pearl 36 (1991),PestResistant|DiseaseResistant
+1190,Giant Rice of Akatsi (1981),LongStorage|SandySoil
+1191,Millet Shield 49 (2010),CashCrop
+1192,Sunflower Swift 88 (2001),PestResistant
+1193,Bean Shield 68 (1987),DualPurpose
+1194,Groundnut Shield 97 (2010),DualPurpose|Irrigated|Rainfed
+1195,Millet Pearl 9 (1984),Fortified|LowInput|MarketGrade
+1196,Sunflower Ember 92 (2007),FloodTolerant|HighYield
+1197,Giant Groundnut of Amanzi (2011),DiseaseResistant
+1198,Delta Cowpea of Sokoto (2013),LongStorage|Intercrop|CashCrop
+1199,Akatsi Royal Cowpea (1995),FloodTolerant|LowInput
+1200,Crest Cassava of Hawassa (2001),DroughtTolerant
+1201,Tea Swift 67 (2015),SandySoil|LongStorage
+1202,Spring Groundnut of Kilimani (1996),LowInput|Staple
+1203,Akatsi Spring Rice (2015),Staple|Fortified
+1204,Hawassa Prime Millet (1987),Rainfed|SandySoil
+1205,Bean Star 21 (2003),DualPurpose
+1206,Maize Delta 57 (1980),LongStorage|FloodTolerant|Irrigated
+1207,Tea Crest 32 (1994),Irrigated|DroughtTolerant
+1208,Sokoto Delta Cassava (2023),DiseaseResistant|Intercrop|FloodTolerant
+1209,Sokoto Giant Millet (1999),HeatTolerant|DualPurpose|SandySoil
+1210,Sorghum Dawn 14 (2000),Staple
+1211,Delta Sorghum of Sokoto (2004),DualPurpose
+1212,Star Bean of Sokoto (1984),HeatTolerant|DualPurpose|MarketGrade
+1213,Sorghum Crest 24 (1998),MarketGrade|HeatTolerant
+1214,Bean Spring 91 (2016),Intercrop|LowInput|Fortified
+1215,Sokoto Crest Groundnut (1982),CashCrop|Rainfed
+1216,Akatsi Ember Bean (1998),DualPurpose|HeatTolerant|LongStorage
+1217,Sorghum Pearl 83 (2004),MarketGrade|Irrigated|DualPurpose
+1218,Crest Cowpea of Amanzi (2022),Staple|Rainfed
+1219,Akatsi Star Groundnut (2003),Rainfed|Staple|SandySoil
+1220,Akatsi Prime Sunflower (1989),PestResistant|LongStorage|MarketGrade
+1221,Hawassa Gold Tea (1991),Rainfed
+1222,Kilimani Gold Sweet Potato (2019),Fortified
+1223,Giant Maize of Kilimani (2006),HighYield|Intercrop|EarlyMaturing
+1224,Sokoto Gold Millet (2004),Irrigated|DualPurpose
+1225,Groundnut Ember 66 (1998),DualPurpose|FloodTolerant|Rainfed
+1226,Akatsi Dawn Rice (2011),Irrigated|Staple|HighYield
+1227,Dawn Cassava of Akatsi (1982),HighYield
+1228,Millet Gold 49 (2021),EarlyMaturing
+1229,Dawn Groundnut of Amanzi (1991),PestResistant|DiseaseResistant
+1230,Wheat Royal 47 (2002),LowInput
+1231,Kilimani Giant Rice (2005),DroughtTolerant|MarketGrade
+1232,Gold Cassava of Kilimani (2002),Rainfed|Staple
+1233,Bean Giant 85 (2015),LowInput|Fortified|ClaySoil
+1234,Akatsi Royal Sweet Potato (1999),Rainfed
+1235,Kilimani Dawn Sweet Potato (2003),Fortified|DroughtTolerant|SandySoil
+1236,Amanzi Star Cassava (2017),CashCrop|DualPurpose|HeatTolerant
+1237,Cassava Gold 36 (1997),Staple|LowInput
+1238,Tea Star 76 (2002),FloodTolerant|Fortified
+1239,Pearl Rice of Amanzi (1998),MarketGrade|FloodTolerant
+1240,Akatsi Giant Sweet Potato (2013),ClaySoil
+1241,Spring Cowpea of Sokoto (2010),LowInput|DroughtTolerant|Staple
+1242,Akatsi Star Sweet Potato (1980),EarlyMaturing|PestResistant
+1243,Sorghum Star 71 (1988),HeatTolerant|DualPurpose|Staple
+1244,Sokoto Crest Maize (2018),FloodTolerant
+1245,Akatsi Pearl Sorghum (1990),Rainfed|DroughtTolerant
+1246,Cowpea Summit 24 (2003),ClaySoil
+1247,Prime Tea of Hawassa (1982),HighYield|DroughtTolerant
+1248,Prime Sweet Potato of Akatsi (2017),LongStorage
+1249,Sweet Potato Summit 79 (1998),Intercrop|HighYield|FloodTolerant
+1250,Gold Cowpea of Amanzi (2011),Intercrop
+1251,Swift Cowpea of Kilimani (1999),PestResistant|CashCrop
+1252,Sokoto Royal Millet (2018),CashCrop|HeatTolerant|ClaySoil
+1253,Cowpea Giant 66 (1983),LowInput
+1254,Hawassa Star Maize (1994),ClaySoil|DiseaseResistant|HeatTolerant
+1255,Royal Sorghum of Amanzi (1984),LongStorage|DiseaseResistant
+1256,Sweet Potato Swift 39 (2003),Irrigated|SandySoil|HighYield
+1257,Crest Maize of Kilimani (2002),Fortified
+1258,Cassava Gold 86 (2023),MarketGrade|Intercrop|DiseaseResistant
+1259,Amanzi Star Cowpea (1996),PestResistant|ClaySoil|Rainfed
+1260,Ember Bean of Kilimani (1989),Irrigated|FloodTolerant|ClaySoil
+1261,Millet Star 45 (1980),HeatTolerant|DroughtTolerant
+1262,Sorghum Crest 83 (1980),LongStorage|LowInput|Rainfed
+1263,Wheat Summit 90 (2002),Irrigated
+1264,Millet Dawn 44 (1994),HighYield
+1265,Millet Ember 84 (2022),CashCrop|LowInput|Irrigated
+1266,Ember Rice of Amanzi (2016),HighYield|LowInput
+1267,Millet Ember 26 (1996),DroughtTolerant|Intercrop|LowInput
+1268,Hawassa Ember Sorghum (2016),EarlyMaturing
+1269,Sweet Potato Pearl 16 (2022),LongStorage
+1270,Gold Millet of Kilimani (2018),CashCrop|HighYield|Intercrop
+1271,Cowpea Prime 42 (2010),Rainfed
+1272,Akatsi Star Sorghum (2023),LowInput|ClaySoil|LongStorage
+1273,Spring Cassava of Akatsi (1995),Irrigated|SandySoil
+1274,Giant Tea of Kilimani (1990),SandySoil
+1275,Prime Maize of Hawassa (2020),DroughtTolerant|Fortified
+1276,Hawassa Royal Wheat (1987),ClaySoil
+1277,Pearl Millet of Akatsi (2012),DroughtTolerant|HeatTolerant
+1278,Star Cowpea of Sokoto (2010),PestResistant
+1279,Rice Spring 89 (1994),CashCrop|HighYield
+1280,Delta Groundnut of Akatsi (1998),ClaySoil|HighYield
+1281,Shield Sweet Potato of Akatsi (2023),DroughtTolerant|SandySoil
+1282,Groundnut Ember 97 (2015),ClaySoil
+1283,Akatsi Pearl Wheat (1999),DroughtTolerant
+1284,Sokoto Prime Tea (2001),DiseaseResistant|LongStorage
+1285,Groundnut Royal 17 (1986),PestResistant|LongStorage
+1286,Sorghum Gold 34 (1986),Irrigated|CashCrop|HeatTolerant
+1287,Shield Sunflower of Hawassa (1984),CashCrop|Rainfed|DualPurpose
+1288,Sokoto Pearl Groundnut (1991),CashCrop
+1289,Amanzi Swift Rice (2001),LowInput|MarketGrade|Irrigated
+1290,Hawassa Delta Wheat (2002),LowInput|DroughtTolerant
+1291,Sorghum Giant 48 (2016),LongStorage|PestResistant
+1292,Maize Gold 49 (2022),EarlyMaturing
+1293,Kilimani Summit Cassava (2021),HighYield
+1294,Tea Giant 67 (1992),SandySoil|HighYield
+1295,Sokoto Prime Wheat (1994),Irrigated|Staple
+1296,Rice Delta 51 (1996),MarketGrade
+1297,Sokoto Summit Wheat (2017),MarketGrade|SandySoil|LongStorage
+1298,Maize Pearl 53 (1984),Staple
+1299,Tea Pearl 49 (1990),LongStorage|DiseaseResistant
+1300,Dawn Sunflower of Hawassa (1987),HeatTolerant|HighYield
+1301,Crest Sorghum of Hawassa (2009),Staple|HighYield|MarketGrade
+1302,Giant Cassava of Amanzi (2009),Irrigated|FloodTolerant|LowInput
+1303,Amanzi Swift Rice (2019),Irrigated
+1304,Amanzi Giant Sorghum (2009),Intercrop
+1305,Crest Millet of Kilimani (2023),CashCrop|DiseaseResistant
+1306,Crest Sweet Potato of Sokoto (2000),DualPurpose|DroughtTolerant
+1307,Gold Sorghum of Hawassa (2023),HighYield|LongStorage|SandySoil
+1308,Amanzi Shield Cowpea (2018),Irrigated|CashCrop
+1309,Sunflower Summit 73 (1985),PestResistant
+1310,Hawassa Star Bean (1996),MarketGrade
+1311,Tea Royal 87 (1993),Intercrop|Rainfed|DualPurpose
+1312,Amanzi Spring Maize (2003),Irrigated|CashCrop|Rainfed
+1313,Sokoto Swift Sunflower (2013),PestResistant|DroughtTolerant|CashCrop
+1314,Sokoto Crest Millet (2003),FloodTolerant|Intercrop
+1315,Summit Cassava of Hawassa (2011),HeatTolerant|Fortified
+1316,Sorghum Summit 30 (1982),HighYield|Fortified
+1317,Royal Sorghum of Sokoto (1997),Staple|EarlyMaturing
+1318,Spring Rice of Akatsi (1991),DiseaseResistant|PestResistant|ClaySoil
+1319,Tea Delta 95 (2000),DroughtTolerant|EarlyMaturing|DualPurpose
+1320,Swift Groundnut of Amanzi (2010),Rainfed
+1321,Sorghum Pearl 59 (2009),HeatTolerant
+1322,Prime Bean of Akatsi (1985),DualPurpose|LongStorage|SandySoil
+1323,Delta Wheat of Amanzi (1990),LowInput|HeatTolerant|ClaySoil
+1324,Akatsi Gold Cassava (1981),PestResistant|HeatTolerant
+1325,Wheat Summit 88 (2020),FloodTolerant|MarketGrade
+1326,Hawassa Prime Sunflower (1995),DroughtTolerant
+1327,Tea Crest 27 (2013),MarketGrade|LowInput|DroughtTolerant
+1328,Gold Rice of Hawassa (1984),SandySoil|FloodTolerant|MarketGrade
+1329,Cassava Spring 77 (1990),LongStorage|SandySoil|CashCrop
+1330,Gold Sweet Potato of Hawassa (1999),CashCrop|Rainfed
+1331,Kilimani Shield Sweet Potato (2013),DiseaseResistant|DroughtTolerant
+1332,Tea Summit 18 (2001),CashCrop
+1333,Summit Tea of Amanzi (1980),DualPurpose|PestResistant
+1334,Bean Crest 59 (2023),Rainfed
+1335,Swift Groundnut of Amanzi (2016),PestResistant|SandySoil|Rainfed
+1336,Akatsi Swift Cowpea (2003),Irrigated|EarlyMaturing|Intercrop
+1337,Gold Maize of Amanzi (1992),LongStorage|DiseaseResistant
+1338,Akatsi Delta Maize (2003),MarketGrade|LongStorage|FloodTolerant
+1339,Kilimani Ember Sorghum (2017),HighYield|DualPurpose|Staple
+1340,Kilimani Summit Tea (2002),HighYield
+1341,Summit Rice of Akatsi (2016),ClaySoil|MarketGrade
+1342,Cowpea Giant 47 (2004),Irrigated|Staple
+1343,Royal Sunflower of Amanzi (2017),HighYield|DiseaseResistant
+1344,Cassava Ember 16 (2011),ClaySoil
+1345,Hawassa Dawn Wheat (2010),Staple
+1346,Sorghum Royal 56 (1984),Fortified|Intercrop|MarketGrade
+1347,Sunflower Spring 7 (2013),EarlyMaturing|HeatTolerant|DroughtTolerant
+1348,Swift Maize of Kilimani (1987),Rainfed|DiseaseResistant|HeatTolerant
+1349,Spring Bean of Akatsi (1989),ClaySoil
+1350,Hawassa Spring Cassava (1981),SandySoil|CashCrop
+1351,Summit Sweet Potato of Amanzi (2014),Staple|PestResistant
+1352,Hawassa Royal Millet (1997),Fortified|DroughtTolerant
+1353,Prime Bean of Kilimani (2023),Intercrop
+1354,Gold Cassava of Kilimani (2000),DroughtTolerant|PestResistant
+1355,Star Sunflower of Akatsi (1998),HighYield|Fortified|HeatTolerant
+1356,Groundnut Royal 45 (2014),Rainfed|HeatTolerant
+1357,Bean Ember 81 (2001),HighYield
+1358,Hawassa Delta Cassava (2004),EarlyMaturing|DiseaseResistant|Intercrop
+1359,Ember Millet of Kilimani (1984),DroughtTolerant|PestResistant
+1360,Sokoto Dawn Cowpea (1986),ClaySoil
+1361,Kilimani Ember Bean (1987),DroughtTolerant|Fortified|Rainfed
+1362,Prime Sunflower of Sokoto (2014),DroughtTolerant
+1363,Rice Royal 18 (1980),DiseaseResistant|DualPurpose
+1364,Shield Cowpea of Amanzi (1993),CashCrop|Staple
+1365,Ember Tea of Akatsi (2019),CashCrop
+1366,Bean Royal 24 (2003),Staple|PestResistant
+1367,Kilimani Swift Cowpea (1988),PestResistant
+1368,Millet Ember 11 (1990),HighYield|Staple
+1369,Giant Maize of Hawassa (1996),SandySoil
+1370,Wheat Ember 14 (2019),PestResistant|LowInput
+1371,Hawassa Royal Cassava (2010),CashCrop
+1372,Shield Bean of Kilimani (1999),FloodTolerant
+1373,Hawassa Crest Rice (1999),FloodTolerant
+1374,Rice Ember 68 (1981),HeatTolerant|ClaySoil|DualPurpose
+1375,Crest Sunflower of Sokoto (2009),DroughtTolerant|Intercrop
+1376,Royal Sweet Potato of Kilimani (1986),MarketGrade|Intercrop
+1377,Bean Summit 57 (1994),SandySoil|Irrigated|EarlyMaturing
+1378,Cowpea Pearl 39 (2004),ClaySoil|HeatTolerant|Irrigated
+1379,Kilimani Swift Tea (1982),EarlyMaturing|DroughtTolerant|Irrigated
+1380,Akatsi Star Wheat (2007),EarlyMaturing
+1381,Cassava Shield 25 (2022),Staple
+1382,Sweet Potato Delta 92 (2006),Staple|EarlyMaturing
+1383,Akatsi Prime Bean (1998),Staple
+1384,Wheat Royal 83 (2022),DroughtTolerant
+1385,Millet Delta 52 (1997),LowInput|FloodTolerant
+1386,Kilimani Gold Sweet Potato (1998),DualPurpose|Staple|ClaySoil
+1387,Dawn Maize of Akatsi (1994),ClaySoil|Rainfed
+1388,Swift Maize of Akatsi (2016),MarketGrade|Irrigated|FloodTolerant
+1389,Pearl Rice of Amanzi (2013),DroughtTolerant|CashCrop
+1390,Sokoto Delta Bean (2005),HighYield|DualPurpose|DroughtTolerant
+1391,Akatsi Shield Cowpea (1995),HighYield|PestResistant
+1392,Ember Millet of Kilimani (2008),HeatTolerant
+1393,Bean Shield 36 (1985),EarlyMaturing
+1394,Sokoto Pearl Sweet Potato (1998),DualPurpose|HighYield|HeatTolerant
+1395,Sorghum Summit 77 (2015),Fortified
+1396,Cowpea Swift 85 (2006),Fortified|ClaySoil
+1397,Gold Rice of Kilimani (1988),HeatTolerant|Rainfed
+1398,Amanzi Giant Bean (2015),Rainfed|ClaySoil
+1399,Sokoto Pearl Groundnut (2007),DroughtTolerant|EarlyMaturing
+1400,Cassava Swift 17 (2023),LongStorage|Irrigated|MarketGrade
+1401,Amanzi Star Tea (2022),PestResistant|DiseaseResistant|Irrigated
+1402,Cassava Star 4 (1998),LowInput
+1403,Prime Maize of Sokoto (2021),Irrigated|LowInput|DroughtTolerant
+1404,Hawassa Summit Millet (2002),DroughtTolerant|Intercrop
+1405,Akatsi Dawn Wheat (2007),DroughtTolerant|FloodTolerant|ClaySoil
+1406,Rice Pearl 45 (2008),HeatTolerant
+1407,Rice Dawn 38 (2015),Staple|FloodTolerant
+1408,Ember Wheat of Kilimani (1982),LowInput
+1409,Dawn Millet of Akatsi (1981),HeatTolerant
+1410,Royal Sweet Potato of Amanzi (1982),DualPurpose|HighYield|DroughtTolerant
+1411,Kilimani Prime Wheat (2016),Fortified|FloodTolerant
+1412,Crest Tea of Kilimani (2023),DualPurpose|HighYield|HeatTolerant
+1413,Hawassa Swift Rice (2018),LongStorage|LowInput
+1414,Wheat Royal 94 (1997),FloodTolerant|Rainfed|EarlyMaturing
+1415,Cowpea Giant 63 (1980),Fortified|EarlyMaturing|Rainfed
+1416,Cassava Gold 47 (2008),ClaySoil|EarlyMaturing|Fortified
+1417,Akatsi Summit Sorghum (1996),SandySoil|MarketGrade|Irrigated
+1418,Bean Shield 75 (2001),LowInput
+1419,Hawassa Shield Cowpea (1984),EarlyMaturing
+1420,Hawassa Delta Rice (2005),Irrigated|LowInput|CashCrop
+1421,Sunflower Giant 73 (2012),SandySoil|PestResistant|HighYield
+1422,Cowpea Gold 24 (1988),Staple|DroughtTolerant
+1423,Ember Bean of Akatsi (1989),HighYield
+1424,Star Cowpea of Akatsi (2011),CashCrop
+1425,Dawn Sorghum of Akatsi (1980),Intercrop|DiseaseResistant|ClaySoil
+1426,Millet Royal 3 (1995),DualPurpose|LongStorage
+1427,Kilimani Delta Maize (2001),FloodTolerant|DroughtTolerant
+1428,Sweet Potato Royal 87 (2017),Staple|HeatTolerant
+1429,Delta Groundnut of Sokoto (2014),LongStorage|PestResistant
+1430,Hawassa Star Bean (2012),HeatTolerant|LongStorage|CashCrop
+1431,Bean Pearl 18 (1997),Staple
+1432,Kilimani Shield Bean (1996),Staple
+1433,Swift Groundnut of Akatsi (1981),LongStorage
+1434,Ember Sunflower of Amanzi (2005),PestResistant
+1435,Sunflower Royal 77 (1993),DualPurpose|ClaySoil|Intercrop
+1436,Giant Cassava of Sokoto (1994),DualPurpose|EarlyMaturing|ClaySoil
+1437,Akatsi Star Rice (1994),DroughtTolerant
+1438,Sokoto Giant Tea (2013),PestResistant|FloodTolerant|Fortified
+1439,Millet Delta 77 (1997),Intercrop
+1440,Sorghum Giant 49 (2012),DroughtTolerant|MarketGrade|FloodTolerant
+1441,Kilimani Dawn Wheat (1981),PestResistant
+1442,Prime Rice of Akatsi (2022),FloodTolerant
+1443,Amanzi Crest Sweet Potato (2019),LongStorage
+1444,Akatsi Dawn Groundnut (1996),SandySoil
+1445,Akatsi Swift Cassava (2015),FloodTolerant|ClaySoil
+1446,Kilimani Dawn Tea (1989),LowInput
+1447,Crest Bean of Kilimani (1994),HeatTolerant
+1448,Akatsi Summit Sorghum (2008),FloodTolerant
+1449,Millet Summit 51 (2006),FloodTolerant|CashCrop|DiseaseResistant
+1450,Hawassa Shield Cowpea (2010),DualPurpose|EarlyMaturing|HeatTolerant
+1451,Millet Ember 35 (2008),DiseaseResistant
+1452,Spring Sunflower of Kilimani (2003),LowInput|Intercrop|Fortified
+1453,Pearl Cassava of Amanzi (2023),HeatTolerant|Intercrop|EarlyMaturing
+1454,Dawn Groundnut of Amanzi (2016),LongStorage
+1455,Groundnut Spring 66 (1994),Rainfed|LowInput|DroughtTolerant
+1456,Hawassa Spring Rice (1984),ClaySoil|Staple
+1457,Spring Tea of Amanzi (2012),CashCrop
+1458,Wheat Pearl 92 (1998),LongStorage
+1459,Akatsi Pearl Wheat (2007),LowInput
+1460,Amanzi Dawn Sunflower (1990),LongStorage|SandySoil
+1461,Swift Maize of Kilimani (1995),HighYield|DroughtTolerant
+1462,Akatsi Ember Groundnut (2005),FloodTolerant|DroughtTolerant|HighYield
+1463,Sorghum Prime 9 (2014),HighYield
+1464,Dawn Wheat of Kilimani (1986),Intercrop|DroughtTolerant
+1465,Hawassa Prime Sorghum (2012),Irrigated|SandySoil
+1466,Cowpea Swift 62 (1987),Intercrop|LowInput|SandySoil
+1467,Kilimani Star Groundnut (1991),Irrigated|Fortified
+1468,Amanzi Gold Millet (2006),DualPurpose|HighYield|LowInput
+1469,Kilimani Swift Cowpea (2022),LongStorage
+1470,Sokoto Giant Millet (2001),SandySoil|PestResistant|Irrigated
+1471,Akatsi Spring Rice (1980),FloodTolerant|Rainfed|LowInput
+1472,Cowpea Delta 21 (2018),LowInput|DroughtTolerant
+1473,Cassava Spring 40 (2002),FloodTolerant|ClaySoil
+1474,Star Sweet Potato of Sokoto (2002),DiseaseResistant|SandySoil|FloodTolerant
+1475,Akatsi Royal Groundnut (2013),FloodTolerant|ClaySoil|Rainfed
+1476,Swift Sweet Potato of Amanzi (2013),SandySoil|HeatTolerant|EarlyMaturing
+1477,Sokoto Pearl Maize (1997),Intercrop
+1478,Pearl Rice of Kilimani (2004),DroughtTolerant|MarketGrade
+1479,Star Maize of Akatsi (1982),SandySoil|LowInput|Fortified
+1480,Gold Millet of Amanzi (2013),HeatTolerant|LongStorage
+1481,Cowpea Pearl 33 (1999),Staple
+1482,Tea Pearl 69 (1998),EarlyMaturing|DualPurpose|SandySoil
+1483,Tea Dawn 89 (2020),ClaySoil
+1484,Amanzi Star Rice (1984),EarlyMaturing|DiseaseResistant
+1485,Akatsi Pearl Sweet Potato (2003),Intercrop|DualPurpose
+1486,Kilimani Giant Millet (1999),ClaySoil|HighYield|HeatTolerant
+1487,Star Cassava of Akatsi (2009),Intercrop
+1488,Sunflower Summit 36 (1983),Rainfed|Fortified
+1489,Amanzi Summit Cowpea (2018),HighYield
+1490,Summit Cowpea of Sokoto (2002),MarketGrade|DualPurpose|Rainfed
+1491,Akatsi Gold Sunflower (2019),CashCrop|Rainfed
+1492,Hawassa Pearl Millet (2010),LowInput
+1493,Maize Giant 34 (1994),Irrigated|Rainfed
+1494,Delta Groundnut of Sokoto (2004),MarketGrade|Fortified
+1495,Sunflower Ember 29 (1996),DroughtTolerant|Rainfed
+1496,Giant Wheat of Akatsi (1983),(no traits listed)
+1497,Tea Swift 31 (1981),PestResistant
+1498,Kilimani Summit Rice (1996),Intercrop|HighYield|LongStorage
+1499,Kilimani Royal Cowpea (2001),Fortified|ClaySoil
+1500,Sokoto Ember Bean (1980),HighYield|Fortified|DualPurpose
+1501,Giant Tea of Hawassa (1987),ClaySoil
+1502,Sorghum Star 2 (2004),ClaySoil
+1503,Akatsi Spring Sunflower (1992),DiseaseResistant|DroughtTolerant
+1504,Sorghum Delta 27 (1999),EarlyMaturing|MarketGrade
+1505,Amanzi Ember Bean (1980),SandySoil|HighYield
+1506,Kilimani Dawn Groundnut (2013),FloodTolerant|PestResistant|HeatTolerant
+1507,Summit Bean of Hawassa (2011),Staple
+1508,Ember Tea of Hawassa (1999),DroughtTolerant
+1509,Prime Wheat of Kilimani (1993),CashCrop
+1510,Amanzi Pearl Millet (1988),EarlyMaturing|LowInput|HeatTolerant
+1511,Rice Spring 16 (2001),HighYield
+1512,Pearl Groundnut of Sokoto (1982),Rainfed|EarlyMaturing
+1513,Maize Prime 52 (2015),DroughtTolerant
+1514,Royal Wheat of Kilimani (1990),DroughtTolerant|CashCrop
+1515,Akatsi Swift Cassava (1993),EarlyMaturing
+1516,Rice Ember 10 (2011),HighYield
+1517,Sunflower Summit 86 (2009),CashCrop|Intercrop|SandySoil
+1518,Wheat Pearl 69 (2011),DualPurpose|MarketGrade
+1519,Summit Sunflower of Sokoto (2007),Irrigated|PestResistant
+1520,Shield Tea of Sokoto (1995),ClaySoil|Fortified|LowInput
+1521,Tea Crest 64 (1982),EarlyMaturing|SandySoil|Fortified
+1522,Sorghum Pearl 56 (1995),Intercrop|DualPurpose
+1523,Akatsi Royal Groundnut (1991),Fortified|HighYield
+1524,Amanzi Delta Sunflower (2019),ClaySoil
+1525,Kilimani Spring Millet (1991),DroughtTolerant|ClaySoil|LowInput
+1526,Maize Gold 34 (2013),DroughtTolerant
+1527,Giant Sorghum of Akatsi (2001),LowInput
+1528,Ember Maize of Amanzi (2000),EarlyMaturing|HeatTolerant
+1529,Ember Cowpea of Sokoto (2009),Fortified|Staple|ClaySoil
+1530,Groundnut Crest 88 (1996),ClaySoil|LongStorage
+1531,Spring Cowpea of Kilimani (1990),Irrigated|SandySoil
+1532,Spring Rice of Amanzi (1999),LowInput|SandySoil|ClaySoil
+1533,Kilimani Star Bean (2003),DualPurpose
+1534,Shield Groundnut of Kilimani (1984),LongStorage|HeatTolerant|MarketGrade
+1535,Maize Ember 84 (2001),PestResistant|MarketGrade|Fortified
+1536,Amanzi Crest Groundnut (1996),EarlyMaturing|Rainfed|ClaySoil
+1537,Hawassa Gold Rice (2023),LongStorage|Fortified
+1538,Prime Cowpea of Akatsi (2015),DualPurpose|Fortified
+1539,Cassava Shield 7 (1999),HeatTolerant|Rainfed
+1540,Amanzi Spring Sunflower (2022),DualPurpose|LongStorage|MarketGrade
+1541,Spring Sweet Potato of Sokoto (2015),EarlyMaturing|SandySoil
+1542,Pearl Cassava of Hawassa (2014),DiseaseResistant|SandySoil|MarketGrade
+1543,Hawassa Summit Rice (1988),MarketGrade|DiseaseResistant|CashCrop
+1544,Akatsi Gold Millet (1993),LowInput
+1545,Amanzi Spring Groundnut (2004),EarlyMaturing
+1546,Cowpea Pearl 93 (1997),EarlyMaturing
+1547,Ember Cassava of Sokoto (1990),HighYield
+1548,Dawn Tea of Kilimani (2010),DiseaseResistant|LowInput|Rainfed
+1549,Sokoto Royal Tea (2022),DualPurpose
+1550,Kilimani Shield Cowpea (2001),Intercrop
+1551,Maize Giant 6 (2001),DiseaseResistant|Irrigated|HeatTolerant
+1552,Spring Sorghum of Hawassa (2010),DroughtTolerant
+1553,Kilimani Royal Tea (2002),DiseaseResistant|Staple|PestResistant
+1554,Hawassa Shield Maize (2022),Rainfed|LowInput
+1555,Sweet Potato Crest 77 (1983),DroughtTolerant|EarlyMaturing
+1556,Dawn Cassava of Akatsi (1994),HighYield
+1557,Bean Giant 98 (1991),FloodTolerant|MarketGrade
+1558,Sorghum Delta 13 (2018),DiseaseResistant
+1559,Swift Maize of Sokoto (2011),LongStorage|Rainfed
+1560,Crest Sunflower of Hawassa (2003),CashCrop|SandySoil|DualPurpose
+1561,Tea Royal 43 (1991),FloodTolerant|MarketGrade|HeatTolerant
+1562,Wheat Ember 37 (2015),DualPurpose|PestResistant|Staple
+1563,Sweet Potato Royal 57 (2006),DroughtTolerant
+1564,Tea Delta 54 (1993),LowInput|Irrigated
+1565,Sweet Potato Gold 27 (1987),LowInput|Intercrop|PestResistant
+1566,Rice Gold 3 (2021),HighYield
+1567,Amanzi Pearl Maize (1985),MarketGrade|FloodTolerant
+1568,Cowpea Crest 24 (1986),CashCrop|Staple
+1569,Groundnut Giant 18 (2013),SandySoil
+1570,Kilimani Crest Rice (2020),DiseaseResistant|SandySoil|CashCrop
+1571,Summit Bean of Hawassa (1988),LongStorage
+1572,Sokoto Delta Tea (1988),HeatTolerant|EarlyMaturing
+1573,Cassava Prime 68 (2001),Intercrop
+1574,Ember Bean of Hawassa (1983),LongStorage
+1575,Pearl Sweet Potato of Akatsi (1997),Irrigated
+1576,Gold Cowpea of Amanzi (2005),HighYield|Intercrop|LongStorage
+1577,Akatsi Swift Cowpea (2022),DiseaseResistant|CashCrop|Rainfed
+1578,Star Rice of Akatsi (2006),Irrigated|SandySoil
+1579,Sokoto Swift Tea (1984),LowInput|Staple|MarketGrade
+1580,Kilimani Ember Wheat (2017),HighYield|EarlyMaturing
+1581,Sokoto Ember Millet (1995),LowInput|SandySoil
+1582,Pearl Maize of Kilimani (2018),HeatTolerant|SandySoil|DiseaseResistant
+1583,Hawassa Star Groundnut (1998),MarketGrade
+1584,Gold Cowpea of Hawassa (2005),LongStorage|FloodTolerant|EarlyMaturing
+1585,Kilimani Summit Tea (2019),DiseaseResistant|PestResistant
+1586,Shield Tea of Kilimani (1987),CashCrop
+1587,Tea Shield 77 (1989),PestResistant|LowInput|HeatTolerant
+1588,Hawassa Pearl Sweet Potato (2012),HighYield|LowInput|LongStorage
+1589,Giant Sunflower of Amanzi (2010),SandySoil|Irrigated
+1590,Sorghum Ember 95 (1994),FloodTolerant
+1591,Amanzi Giant Millet (2001),(no traits listed)
+1592,Giant Rice of Akatsi (2011),LowInput
+1593,Hawassa Prime Sweet Potato (1990),(no traits listed)
+1594,Sorghum Star 44 (2009),EarlyMaturing|DualPurpose
+1595,Shield Rice of Amanzi (1991),Intercrop|PestResistant|FloodTolerant
+1596,Hawassa Summit Groundnut (2009),ClaySoil
+1597,Akatsi Delta Tea (1983),LongStorage|ClaySoil|HeatTolerant
+1598,Crest Tea of Hawassa (1997),CashCrop|ClaySoil
+1599,Swift Wheat of Akatsi (2010),DiseaseResistant|LowInput|ClaySoil
+1600,Akatsi Giant Bean (2021),HeatTolerant|MarketGrade
+1601,Star Tea of Sokoto (2022),EarlyMaturing|Intercrop|LowInput
+1602,Pearl Cowpea of Sokoto (2002),Intercrop
+1603,Akatsi Star Tea (2001),Intercrop
+1604,Ember Tea of Amanzi (2000),Irrigated|DualPurpose
+1605,Bean Shield 82 (2000),LongStorage
+1606,Royal Rice of Hawassa (2002),Fortified|CashCrop|Rainfed
+1607,Akatsi Dawn Wheat (1994),Staple
+1608,Groundnut Giant 44 (1991),FloodTolerant|ClaySoil
+1609,Kilimani Prime Groundnut (1989),MarketGrade|PestResistant
+1610,Bean Crest 38 (1991),Irrigated|EarlyMaturing
+1611,Sweet Potato Royal 22 (2003),SandySoil|LowInput|FloodTolerant
+1612,Groundnut Summit 8 (2016),PestResistant|Intercrop
+1613,Sweet Potato Gold 24 (1993),EarlyMaturing
+1614,Hawassa Summit Bean (2020),SandySoil|CashCrop|DiseaseResistant
+1615,Cowpea Giant 55 (2021),LowInput
+1616,Star Bean of Akatsi (1985),EarlyMaturing
+1617,Akatsi Spring Cassava (1991),ClaySoil|EarlyMaturing|HeatTolerant
+1618,Pearl Wheat of Akatsi (1999),SandySoil
+1619,Sorghum Delta 36 (1987),CashCrop
+1620,Shield Sorghum of Kilimani (1991),Fortified|PestResistant|CashCrop
+1621,Delta Cassava of Amanzi (1985),DualPurpose
+1622,Shield Groundnut of Kilimani (1992),EarlyMaturing
+1623,Sunflower Dawn 67 (2017),FloodTolerant
+1624,Swift Cowpea of Hawassa (2003),EarlyMaturing|HighYield|ClaySoil
+1625,Swift Cassava of Kilimani (2008),DiseaseResistant|HeatTolerant|EarlyMaturing
+1626,Royal Bean of Kilimani (1986),LongStorage
+1627,Prime Bean of Amanzi (2023),Intercrop|LongStorage|Fortified
+1628,Ember Tea of Hawassa (1998),Staple|LowInput
+1629,Summit Groundnut of Kilimani (2012),Staple|HeatTolerant|SandySoil
+1630,Amanzi Royal Wheat (1985),CashCrop|LowInput|Rainfed
+1631,Sokoto Giant Millet (2017),LowInput
+1632,Royal Maize of Akatsi (2014),CashCrop
+1633,Giant Sweet Potato of Hawassa (1988),Rainfed|PestResistant|Fortified
+1634,Prime Tea of Akatsi (1985),Staple|Rainfed|SandySoil
+1635,Cassava Spring 66 (1984),(no traits listed)
+1636,Sokoto Shield Groundnut (1982),LowInput|MarketGrade|Fortified
+1637,Millet Prime 31 (2004),Fortified|DroughtTolerant|FloodTolerant
+1638,Akatsi Swift Wheat (2012),EarlyMaturing|LowInput|Intercrop
+1639,Spring Sunflower of Sokoto (2011),LowInput|Staple
+1640,Gold Sweet Potato of Kilimani (2020),DualPurpose|DroughtTolerant|CashCrop
+1641,Star Wheat of Amanzi (1980),SandySoil|DroughtTolerant|PestResistant
+1642,Rice Ember 16 (1991),PestResistant|Fortified
+1643,Swift Groundnut of Amanzi (2012),Rainfed|LongStorage
+1644,Kilimani Dawn Groundnut (1984),PestResistant
+1645,Prime Sweet Potato of Kilimani (1995),HeatTolerant|Staple
+1646,Amanzi Summit Tea (2005),MarketGrade
+1647,Spring Sweet Potato of Kilimani (1982),LowInput|Intercrop|EarlyMaturing
+1648,Hawassa Summit Millet (2023),DroughtTolerant|PestResistant
+1649,Sorghum Dawn 8 (1986),Irrigated|HeatTolerant|DiseaseResistant
+1650,Prime Wheat of Akatsi (1989),MarketGrade|LongStorage
+1651,Kilimani Royal Groundnut (2021),Rainfed|FloodTolerant
+1652,Sokoto Royal Sweet Potato (2012),CashCrop
+1653,Sunflower Summit 12 (2019),LongStorage
+1654,Tea Giant 52 (2018),HeatTolerant|MarketGrade|LongStorage
+1655,Cowpea Shield 14 (2004),SandySoil|FloodTolerant
+1656,Akatsi Summit Sweet Potato (1980),PestResistant|Staple
+1657,Sweet Potato Star 70 (1988),MarketGrade
+1658,Spring Wheat of Hawassa (1987),FloodTolerant
+1659,Kilimani Swift Bean (1999),EarlyMaturing|SandySoil|DualPurpose
+1660,Akatsi Crest Maize (2012),CashCrop|DroughtTolerant|HighYield
+1661,Royal Groundnut of Sokoto (2013),DualPurpose
+1662,Akatsi Ember Sorghum (1983),Irrigated|Fortified
+1663,Hawassa Star Sweet Potato (1997),LowInput
+1664,Wheat Delta 34 (1981),PestResistant
+1665,Kilimani Swift Wheat (2013),CashCrop|Fortified
+1666,Kilimani Summit Wheat (1987),EarlyMaturing|LongStorage
+1667,Kilimani Delta Tea (2005),EarlyMaturing|DroughtTolerant|CashCrop
+1668,Amanzi Star Cowpea (1998),LongStorage
+1669,Amanzi Shield Millet (1982),LongStorage
+1670,Rice Dawn 14 (2021),EarlyMaturing|HeatTolerant|LowInput
+1671,Millet Gold 50 (2005),PestResistant|Intercrop|HeatTolerant
+1672,Cowpea Royal 50 (1986),Irrigated|Intercrop|ClaySoil
+1673,Sweet Potato Shield 85 (1992),Staple|PestResistant
+1674,Gold Bean of Sokoto (1988),DualPurpose
+1675,Delta Cowpea of Sokoto (2010),DualPurpose|DiseaseResistant|EarlyMaturing
+1676,Delta Maize of Sokoto (1989),Staple|HighYield
+1677,Kilimani Prime Bean (2022),ClaySoil|MarketGrade|CashCrop
+1678,Sorghum Spring 59 (2017),ClaySoil|LowInput|DualPurpose
+1679,Kilimani Gold Tea (1997),Irrigated|ClaySoil|LowInput
+1680,Spring Sunflower of Hawassa (1999),Intercrop|DroughtTolerant
+1681,Wheat Star 45 (2003),Intercrop|HighYield|EarlyMaturing
+1682,Hawassa Giant Cassava (1988),Fortified|Staple|Intercrop
+1683,Ember Maize of Amanzi (1985),HighYield|Irrigated|FloodTolerant
+1684,Groundnut Ember 68 (2009),Fortified|Staple|Intercrop
+1685,Shield Cassava of Hawassa (2016),DualPurpose|PestResistant
+1686,Gold Sweet Potato of Sokoto (1998),HeatTolerant|LongStorage
+1687,Bean Swift 90 (1988),LowInput
+1688,Delta Sweet Potato of Hawassa (2022),LongStorage
+1689,Akatsi Delta Bean (2017),Rainfed|FloodTolerant
+1690,Amanzi Shield Tea (2017),Intercrop
+1691,Akatsi Star Sweet Potato (1999),EarlyMaturing
+1692,Hawassa Gold Sunflower (2018),LongStorage
+1693,Akatsi Star Millet (2023),PestResistant|DroughtTolerant|Rainfed
+1694,Crest Wheat of Amanzi (2006),DiseaseResistant|DroughtTolerant
+1695,Ember Tea of Akatsi (2013),HighYield
+1696,Bean Prime 12 (1991),Rainfed|ClaySoil
+1697,Summit Bean of Kilimani (2011),Rainfed|Fortified
+1698,Kilimani Pearl Rice (1992),Irrigated|HeatTolerant|DroughtTolerant
+1699,Wheat Dawn 82 (1997),HighYield|Fortified|LowInput
+1700,Prime Groundnut of Hawassa (1995),Rainfed|DroughtTolerant|MarketGrade
+1701,Dawn Millet of Akatsi (2011),Intercrop|CashCrop|Rainfed
+1702,Hawassa Pearl Sorghum (2000),MarketGrade|ClaySoil
+1703,Akatsi Pearl Tea (1985),FloodTolerant|HeatTolerant
+1704,Akatsi Shield Bean (1983),PestResistant|LongStorage|MarketGrade
+1705,Giant Bean of Akatsi (2019),FloodTolerant|PestResistant|MarketGrade
+1706,Kilimani Spring Cowpea (2012),LowInput
+1707,Star Sorghum of Akatsi (2017),SandySoil
+1708,Groundnut Prime 8 (2006),PestResistant|Intercrop
+1709,Crest Cassava of Akatsi (1985),EarlyMaturing
+1710,Crest Tea of Amanzi (1992),LongStorage|PestResistant|DualPurpose
+1711,Swift Groundnut of Kilimani (1999),PestResistant|ClaySoil
+1712,Wheat Royal 93 (1993),DroughtTolerant|SandySoil|Fortified
+1713,Prime Sweet Potato of Sokoto (1984),SandySoil|LongStorage
+1714,Shield Rice of Amanzi (2011),SandySoil|EarlyMaturing
+1715,Millet Giant 33 (1996),DualPurpose|EarlyMaturing|Staple
+1716,Sorghum Swift 46 (2019),FloodTolerant|SandySoil
+1717,Amanzi Star Cowpea (1989),LongStorage|LowInput|Irrigated
+1718,Tea Spring 69 (1994),PestResistant|Intercrop
+1719,Cowpea Gold 14 (1997),Intercrop|Irrigated|DualPurpose
+1720,Hawassa Star Sunflower (1985),DroughtTolerant|MarketGrade
+1721,Millet Ember 51 (2020),SandySoil|LongStorage
+1722,Hawassa Pearl Tea (1994),CashCrop|MarketGrade|HeatTolerant
+1723,Millet Swift 68 (1982),Staple|MarketGrade|DiseaseResistant
+1724,Bean Pearl 10 (1996),DiseaseResistant|LongStorage
+1725,Giant Groundnut of Sokoto (2012),CashCrop
+1726,Millet Dawn 11 (2001),FloodTolerant
+1727,Sokoto Prime Wheat (1984),CashCrop|DroughtTolerant|DualPurpose
+1728,Spring Millet of Hawassa (1991),CashCrop|LowInput
+1729,Akatsi Gold Bean (1986),DualPurpose|SandySoil|HighYield
+1730,Pearl Sweet Potato of Hawassa (1996),LowInput|Rainfed
+1731,Hawassa Gold Cassava (1995),CashCrop|HeatTolerant|HighYield
+1732,Summit Cowpea of Akatsi (1981),MarketGrade|CashCrop
+1733,Kilimani Gold Cowpea (2016),DualPurpose|DiseaseResistant
+1734,Dawn Bean of Sokoto (2008),LowInput|Staple|LongStorage
+1735,Akatsi Royal Sorghum (2015),LowInput|EarlyMaturing
+1736,Spring Millet of Amanzi (2012),Rainfed
+1737,Amanzi Gold Sunflower (2004),HighYield|ClaySoil
+1738,Sunflower Royal 73 (1996),SandySoil
+1739,Maize Royal 37 (1987),DualPurpose|EarlyMaturing|DroughtTolerant
+1740,Swift Millet of Amanzi (1991),LongStorage|CashCrop
+1741,Cassava Shield 16 (2006),MarketGrade|DualPurpose|HeatTolerant
+1742,Hawassa Shield Sorghum (1999),LongStorage|PestResistant|EarlyMaturing
+1743,Hawassa Crest Tea (1985),Rainfed
+1744,Akatsi Pearl Sweet Potato (2013),LongStorage|DualPurpose
+1745,Amanzi Crest Wheat (2022),ClaySoil
+1746,Giant Millet of Akatsi (2011),LongStorage|Intercrop
+1747,Swift Bean of Hawassa (2002),LowInput
+1748,Prime Tea of Sokoto (2020),DualPurpose|ClaySoil|CashCrop
+1749,Bean Star 77 (2004),Irrigated|LowInput|Staple
+1750,Akatsi Star Sunflower (1994),DroughtTolerant|LowInput|Fortified
+1751,Prime Sorghum of Amanzi (2021),SandySoil|Staple|DroughtTolerant
+1752,Sokoto Giant Wheat (2023),CashCrop
+1753,Groundnut Shield 63 (1984),LowInput|Staple|MarketGrade
+1754,Amanzi Shield Sweet Potato (2011),DiseaseResistant
+1755,Star Bean of Sokoto (1981),PestResistant|HighYield|HeatTolerant
+1756,Amanzi Delta Tea (2020),SandySoil|HeatTolerant|Irrigated
+1757,Sokoto Gold Cowpea (1984),PestResistant|HighYield|Staple
+1758,Dawn Maize of Akatsi (1988),Rainfed|Irrigated
+1759,Sweet Potato Dawn 24 (2001),MarketGrade
+1760,Spring Millet of Kilimani (1980),MarketGrade|DiseaseResistant|Irrigated
+1761,Akatsi Star Tea (2000),DualPurpose
+1762,Star Millet of Hawassa (2017),HeatTolerant|DiseaseResistant|CashCrop
+1763,Millet Swift 57 (2007),DiseaseResistant|Intercrop|SandySoil
+1764,Delta Cowpea of Amanzi (2004),Intercrop|DroughtTolerant|LowInput
+1765,Dawn Cassava of Amanzi (2018),Irrigated
+1766,Kilimani Swift Groundnut (2007),CashCrop|HighYield|DroughtTolerant
+1767,Royal Maize of Kilimani (1980),SandySoil
+1768,Sweet Potato Gold 14 (2021),MarketGrade|Rainfed|FloodTolerant
+1769,Kilimani Ember Groundnut (1991),CashCrop
+1770,Sorghum Swift 33 (2017),ClaySoil|Fortified|DualPurpose
+1771,Amanzi Delta Sweet Potato (2017),EarlyMaturing
+1772,Cassava Swift 74 (2017),Irrigated
+1773,Millet Giant 98 (1988),LongStorage
+1774,Bean Prime 65 (2019),Intercrop|HighYield|DiseaseResistant
+1775,Amanzi Giant Millet (1999),MarketGrade|Staple
+1776,Kilimani Royal Groundnut (1983),Rainfed|MarketGrade|ClaySoil
+1777,Cassava Gold 8 (2006),LowInput
+1778,Sokoto Ember Cowpea (1996),ClaySoil|FloodTolerant|LowInput
+1779,Prime Sorghum of Hawassa (2010),SandySoil|Fortified
+1780,Sokoto Gold Maize (1995),EarlyMaturing|SandySoil
+1781,Pearl Cowpea of Akatsi (1989),HighYield|PestResistant
+1782,Gold Sweet Potato of Sokoto (1990),DualPurpose|Intercrop|Irrigated
+1783,Groundnut Dawn 32 (2023),(no traits listed)
+1784,Maize Spring 54 (2015),FloodTolerant|LowInput|SandySoil
+1785,Tea Dawn 42 (1985),Staple|FloodTolerant|LongStorage
+1786,Hawassa Giant Bean (1998),HighYield|SandySoil
+1787,Star Sweet Potato of Akatsi (1985),Intercrop
+1788,Giant Cassava of Sokoto (2012),Intercrop
+1789,Gold Tea of Amanzi (1984),EarlyMaturing
+1790,Amanzi Giant Rice (2018),Staple|DualPurpose|SandySoil
+1791,Groundnut Pearl 17 (2009),Fortified|EarlyMaturing
+1792,Amanzi Spring Sorghum (1986),Intercrop|HeatTolerant
+1793,Hawassa Giant Maize (2021),DualPurpose|HeatTolerant
+1794,Gold Bean of Kilimani (2008),Staple|DualPurpose|Fortified
+1795,Groundnut Shield 77 (2002),Staple
+1796,Ember Maize of Hawassa (1999),SandySoil|MarketGrade
+1797,Rice Shield 66 (2020),FloodTolerant|HeatTolerant|HighYield
+1798,Akatsi Star Wheat (1996),DiseaseResistant|DroughtTolerant|MarketGrade
+1799,Amanzi Star Bean (1984),Fortified|PestResistant
+1800,Sorghum Spring 17 (2016),Irrigated|Intercrop
+1801,Tea Shield 40 (2022),Irrigated|FloodTolerant
+1802,Bean Delta 56 (1990),PestResistant|DroughtTolerant
+1803,Shield Tea of Akatsi (2014),LongStorage
+1804,Prime Sorghum of Sokoto (2004),MarketGrade|DualPurpose
+1805,Amanzi Spring Rice (2013),PestResistant|LowInput
+1806,Wheat Spring 94 (2018),SandySoil
+1807,Wheat Shield 48 (1989),Irrigated|Intercrop|DroughtTolerant
+1808,Sokoto Royal Cassava (2000),HeatTolerant
+1809,Maize Spring 81 (1981),DroughtTolerant|Fortified
+1810,Kilimani Summit Tea (2015),HeatTolerant|Intercrop
+1811,Rice Gold 25 (1981),LowInput|MarketGrade
+1812,Millet Prime 98 (2020),MarketGrade
+1813,Millet Royal 80 (1986),FloodTolerant|HeatTolerant
+1814,Amanzi Ember Groundnut (1980),LowInput
+1815,Gold Groundnut of Akatsi (1992),EarlyMaturing|DualPurpose|HeatTolerant
+1816,Maize Prime 70 (1985),FloodTolerant|HighYield
+1817,Hawassa Crest Rice (2017),ClaySoil|DiseaseResistant
+1818,Tea Ember 48 (1994),Intercrop|Irrigated
+1819,Summit Sweet Potato of Akatsi (2015),MarketGrade
+1820,Pearl Tea of Kilimani (1984),Rainfed|DualPurpose|HeatTolerant
+1821,Groundnut Shield 30 (1990),ClaySoil|CashCrop|DiseaseResistant
+1822,Sweet Potato Spring 46 (1989),PestResistant|Rainfed
+1823,Kilimani Crest Cowpea (2010),CashCrop|Intercrop|ClaySoil
+1824,Akatsi Pearl Maize (1999),Intercrop
+1825,Akatsi Giant Sorghum (1988),Fortified
+1826,Amanzi Swift Cowpea (1984),SandySoil|Intercrop|HighYield
+1827,Summit Sorghum of Hawassa (1987),PestResistant
+1828,Akatsi Giant Bean (1989),Rainfed|Fortified|EarlyMaturing
+1829,Sokoto Prime Bean (2017),HighYield
+1830,Akatsi Gold Sorghum (1988),EarlyMaturing|Fortified|LongStorage
+1831,Hawassa Gold Sorghum (1986),SandySoil|DualPurpose
+1832,Prime Sorghum of Amanzi (2001),MarketGrade
+1833,Maize Dawn 98 (2002),DiseaseResistant|Rainfed
+1834,Cowpea Star 93 (2011),HighYield|Fortified
+1835,Rice Ember 70 (1988),SandySoil|PestResistant
+1836,Ember Cassava of Sokoto (2013),Irrigated
+1837,Giant Groundnut of Amanzi (2007),SandySoil|EarlyMaturing
+1838,Rice Dawn 19 (1987),Irrigated
+1839,Tea Spring 6 (2012),HighYield|PestResistant|DroughtTolerant
+1840,Sorghum Star 67 (2015),FloodTolerant|MarketGrade|HighYield
+1841,Akatsi Prime Millet (2012),SandySoil|Intercrop
+1842,Sokoto Summit Cowpea (2009),DiseaseResistant|CashCrop|FloodTolerant
+1843,Summit Cassava of Kilimani (2008),Fortified|Staple
+1844,Cowpea Delta 66 (1988),EarlyMaturing
+1845,Gold Millet of Amanzi (1981),LowInput|ClaySoil
+1846,Hawassa Delta Millet (1987),CashCrop
+1847,Sokoto Gold Wheat (1982),Intercrop
+1848,Sunflower Delta 49 (2019),ClaySoil|EarlyMaturing|MarketGrade
+1849,Spring Bean of Sokoto (2005),Staple
+1850,Bean Ember 81 (2002),LowInput
+1851,Hawassa Summit Groundnut (1982),LongStorage|CashCrop|ClaySoil
+1852,Sorghum Swift 92 (1980),HighYield
+1853,Giant Groundnut of Amanzi (2010),Irrigated
+1854,Hawassa Summit Cassava (2021),HeatTolerant|Intercrop|LowInput
+1855,Hawassa Delta Rice (1984),CashCrop|FloodTolerant|ClaySoil
+1856,Hawassa Prime Tea (2007),DroughtTolerant
+1857,Kilimani Star Maize (1984),ClaySoil|EarlyMaturing
+1858,Sunflower Swift 8 (2020),DualPurpose|PestResistant|ClaySoil
+1859,Delta Wheat of Hawassa (2013),ClaySoil|Intercrop
+1860,Kilimani Summit Cowpea (2001),SandySoil|DiseaseResistant|Fortified
+1861,Amanzi Delta Sweet Potato (1983),FloodTolerant|Intercrop
+1862,Prime Wheat of Sokoto (2010),MarketGrade
+1863,Sorghum Star 62 (2022),SandySoil
+1864,Akatsi Delta Millet (2008),CashCrop|Rainfed|FloodTolerant
+1865,Royal Sweet Potato of Hawassa (1991),DualPurpose|Intercrop|PestResistant
+1866,Ember Sorghum of Amanzi (1992),CashCrop|LongStorage
+1867,Akatsi Summit Millet (1985),PestResistant|ClaySoil
+1868,Spring Bean of Hawassa (2011),FloodTolerant|Intercrop
+1869,Prime Bean of Sokoto (2005),DiseaseResistant
+1870,Sunflower Prime 20 (2022),Irrigated|Rainfed
+1871,Hawassa Prime Cassava (1986),Irrigated
+1872,Giant Groundnut of Akatsi (2013),HighYield|DualPurpose|ClaySoil
+1873,Kilimani Swift Bean (2004),MarketGrade|Irrigated|FloodTolerant
+1874,Groundnut Summit 31 (1987),DiseaseResistant|HeatTolerant
+1875,Hawassa Royal Sorghum (2011),SandySoil
+1876,Amanzi Crest Sunflower (2022),DroughtTolerant|EarlyMaturing|HeatTolerant
+1877,Sweet Potato Dawn 48 (2004),DiseaseResistant|MarketGrade
+1878,Cassava Royal 61 (1994),MarketGrade|Irrigated
+1879,Hawassa Star Sorghum (1995),PestResistant|HeatTolerant
+1880,Sokoto Delta Tea (2018),EarlyMaturing|LowInput
+1881,Akatsi Shield Sunflower (2003),Rainfed|HeatTolerant
+1882,Millet Shield 62 (1988),CashCrop|HighYield
+1883,Ember Cassava of Akatsi (1993),Intercrop|SandySoil|DualPurpose
+1884,Summit Sweet Potato of Amanzi (2002),Fortified
+1885,Amanzi Giant Cassava (2020),PestResistant
+1886,Dawn Wheat of Amanzi (2015),LongStorage|DroughtTolerant
+1887,Gold Rice of Kilimani (2009),SandySoil
+1888,Millet Delta 31 (2000),Rainfed|Fortified
+1889,Rice Shield 45 (1993),Intercrop|Staple
+1890,Sorghum Swift 43 (2019),Rainfed|HighYield
+1891,Groundnut Spring 72 (2021),SandySoil|CashCrop
+1892,Maize Prime 37 (1984),Irrigated
+1893,Star Millet of Amanzi (1991),DroughtTolerant
+1894,Ember Maize of Kilimani (1984),DroughtTolerant|Rainfed|PestResistant
+1895,Sokoto Star Wheat (2014),CashCrop
+1896,Prime Maize of Kilimani (1994),Fortified|MarketGrade|ClaySoil
+1897,Royal Cassava of Hawassa (2004),DroughtTolerant|SandySoil|LongStorage
+1898,Shield Wheat of Kilimani (1987),DroughtTolerant
+1899,Akatsi Spring Maize (1992),FloodTolerant
+1900,Kilimani Giant Tea (2008),LongStorage
+1901,Star Maize of Amanzi (2021),MarketGrade|HighYield
+1902,Shield Rice of Akatsi (1981),HeatTolerant|MarketGrade|Intercrop
+1903,Delta Cassava of Akatsi (1994),Staple|Rainfed
+1904,Kilimani Ember Sweet Potato (1990),FloodTolerant|DroughtTolerant
+1905,Cowpea Star 59 (1988),LongStorage
+1906,Pearl Rice of Akatsi (2011),Irrigated|DroughtTolerant
+1907,Cassava Dawn 63 (2001),DualPurpose|EarlyMaturing|LowInput
+1908,Delta Cassava of Amanzi (2009),DualPurpose|HeatTolerant|CashCrop
+1909,Shield Cassava of Akatsi (1997),HighYield
+1910,Hawassa Dawn Cowpea (2022),FloodTolerant
+1911,Wheat Ember 94 (2016),HeatTolerant|EarlyMaturing
+1912,Prime Bean of Akatsi (1989),Fortified|PestResistant|Staple
+1913,Bean Star 55 (1989),EarlyMaturing
+1914,Kilimani Royal Groundnut (2005),HeatTolerant|Rainfed
+1915,Summit Cowpea of Hawassa (1986),HeatTolerant|SandySoil
+1916,Wheat Ember 65 (1997),LowInput|HeatTolerant|MarketGrade
+1917,Sunflower Star 12 (2023),HighYield|HeatTolerant|DualPurpose
+1918,Cowpea Pearl 47 (1980),Rainfed|FloodTolerant
+1919,Hawassa Pearl Groundnut (1990),ClaySoil|DiseaseResistant|CashCrop
+1920,Cowpea Pearl 27 (2001),Rainfed|HighYield|Staple
+1921,Cowpea Shield 33 (1980),Fortified
+1922,Millet Gold 68 (2006),PestResistant
+1923,Tea Gold 5 (1986),(no traits listed)
+1924,Millet Royal 8 (1992),FloodTolerant|ClaySoil
+1925,Sokoto Spring Cassava (2006),PestResistant|EarlyMaturing|Intercrop
+1926,Prime Tea of Hawassa (2011),CashCrop
+1927,Millet Prime 22 (2010),Irrigated
+1928,Cassava Giant 97 (1980),FloodTolerant|Irrigated|Intercrop
+1929,Kilimani Ember Cassava (2018),HighYield|ClaySoil
+1930,Wheat Giant 84 (2009),Rainfed
+1931,Summit Maize of Kilimani (2012),LongStorage|HeatTolerant|Irrigated
+1932,Hawassa Prime Millet (2014),CashCrop|LowInput
+1933,Cassava Delta 90 (2021),LongStorage|MarketGrade|LowInput
+1934,Dawn Tea of Akatsi (1984),ClaySoil|Intercrop
+1935,Sweet Potato Summit 8 (1983),PestResistant|HighYield
+1936,Rice Summit 34 (1993),FloodTolerant|DroughtTolerant
+1937,Summit Bean of Akatsi (2003),FloodTolerant
+1938,Shield Sorghum of Sokoto (1983),DiseaseResistant|Irrigated
+1939,Swift Sweet Potato of Sokoto (2010),FloodTolerant|PestResistant
+1940,Star Cassava of Amanzi (2006),PestResistant|LongStorage
+1941,Rice Gold 19 (1989),DiseaseResistant
+1942,Tea Swift 44 (2009),LowInput|Intercrop|HighYield
+1943,Pearl Sunflower of Amanzi (2015),Staple
+1944,Dawn Maize of Hawassa (2000),ClaySoil|Rainfed
+1945,Hawassa Star Wheat (1984),FloodTolerant|PestResistant|HighYield
+1946,Millet Pearl 82 (1989),LongStorage|FloodTolerant
+1947,Amanzi Gold Cassava (2009),PestResistant|Irrigated
+1948,Sunflower Royal 64 (1983),LowInput
+1949,Millet Pearl 23 (2020),EarlyMaturing
+1950,Sokoto Gold Wheat (1992),Intercrop|ClaySoil|CashCrop
+1951,Sunflower Ember 29 (2012),Irrigated|EarlyMaturing|DroughtTolerant
+1952,Amanzi Dawn Groundnut (2003),MarketGrade|ClaySoil|Irrigated
+1953,Delta Cowpea of Kilimani (1984),DroughtTolerant|LongStorage|FloodTolerant
+1954,Sokoto Delta Groundnut (1986),LongStorage
+1955,Hawassa Swift Rice (1984),(no traits listed)
+1956,Giant Wheat of Sokoto (1996),(no traits listed)
+1957,Sunflower Royal 16 (2023),DualPurpose|DiseaseResistant
+1958,Kilimani Prime Maize (2001),Staple|HeatTolerant
+1959,Cassava Ember 27 (2015),HighYield|MarketGrade
+1960,Cassava Summit 90 (2012),HeatTolerant
+1961,Rice Star 87 (2016),Irrigated|Fortified|PestResistant
+1962,Swift Tea of Kilimani (1982),DualPurpose|LowInput
+1963,Swift Maize of Sokoto (1989),EarlyMaturing|MarketGrade|DroughtTolerant
+1964,Rice Star 19 (2011),SandySoil|FloodTolerant
+1965,Amanzi Crest Maize (1989),LowInput|Intercrop
+1966,Gold Wheat of Kilimani (2013),Fortified|Staple
+1967,Spring Cassava of Hawassa (1991),LongStorage|PestResistant
+1968,Cassava Swift 33 (2018),Staple|Intercrop|HighYield
+1969,Giant Cassava of Amanzi (1983),LowInput|PestResistant
+1970,Kilimani Spring Cassava (1994),Fortified|LongStorage|SandySoil
+1971,Akatsi Star Sweet Potato (2011),Fortified|LowInput|DualPurpose
+1972,Swift Cowpea of Hawassa (2009),Irrigated|SandySoil
+1973,Sorghum Gold 78 (1993),LongStorage|HeatTolerant
+1974,Bean Summit 52 (2003),LongStorage
+1975,Amanzi Delta Sunflower (2000),HighYield|MarketGrade|CashCrop
+1976,Sunflower Prime 6 (1987),Fortified|Rainfed
+1977,Wheat Crest 43 (1982),HeatTolerant|MarketGrade|LongStorage
+1978,Star Rice of Kilimani (2000),HighYield|SandySoil|CashCrop
+1979,Bean Summit 87 (1982),Irrigated|DiseaseResistant|Fortified
+1980,Ember Cowpea of Akatsi (2001),LongStorage|PestResistant
+1981,Sunflower Spring 48 (1989),HighYield
+1982,Cassava Star 96 (2007),LongStorage
+1983,Tea Royal 85 (1996),DualPurpose|EarlyMaturing|Intercrop
+1984,Star Tea of Akatsi (1994),EarlyMaturing
+1985,Akatsi Summit Wheat (2021),(no traits listed)
+1986,Gold Wheat of Akatsi (2005),DroughtTolerant|HeatTolerant
+1987,Star Wheat of Kilimani (2014),Irrigated
+1988,Ember Groundnut of Amanzi (2017),DiseaseResistant
+1989,Hawassa Prime Sunflower (2012),SandySoil
+1990,Summit Bean of Akatsi (2000),DroughtTolerant
+1991,Summit Tea of Amanzi (1987),Staple|DualPurpose|PestResistant
+1992,Tea Shield 96 (1993),Fortified
+1993,Cassava Giant 29 (2000),HighYield|MarketGrade|HeatTolerant
+1994,Akatsi Royal Wheat (1991),FloodTolerant|HeatTolerant|PestResistant
+1995,Swift Groundnut of Sokoto (1990),LowInput
+1996,Maize Delta 83 (2018),MarketGrade|CashCrop
+1997,Hawassa Swift Tea (2011),LongStorage|MarketGrade|HeatTolerant
+1998,Sorghum Dawn 29 (2023),HighYield|Intercrop|Staple
+1999,Sunflower Shield 94 (2004),Staple
+2000,Pearl Millet of Kilimani (1981),LongStorage
+2001,Millet Crest 90 (1982),Fortified|Staple|SandySoil
+2002,Akatsi Spring Sweet Potato (1996),EarlyMaturing|Irrigated
+2003,Crest Millet of Kilimani (2005),HeatTolerant|DualPurpose
+2004,Sokoto Delta Rice (1987),CashCrop
+2005,Rice Giant 15 (2017),SandySoil
+2006,Delta Cassava of Sokoto (2016),Irrigated|CashCrop|DroughtTolerant
+2007,Hawassa Royal Wheat (2009),Irrigated|DualPurpose|ClaySoil
+2008,Akatsi Royal Sorghum (2010),EarlyMaturing|Staple|SandySoil
+2009,Sweet Potato Swift 47 (2010),EarlyMaturing
+2010,Hawassa Ember Bean (1984),ClaySoil|Intercrop|EarlyMaturing
+2011,Hawassa Royal Cowpea (1997),CashCrop|PestResistant|Fortified
+2012,Sweet Potato Giant 38 (2014),EarlyMaturing|Rainfed
+2013,Kilimani Gold Wheat (2023),MarketGrade|HeatTolerant
+2014,Amanzi Gold Sorghum (1998),Rainfed|FloodTolerant|Fortified
+2015,Gold Bean of Hawassa (1980),Irrigated|LongStorage|Rainfed
+2016,Akatsi Swift Tea (1987),LowInput|ClaySoil
+2017,Royal Groundnut of Akatsi (2009),Staple|DiseaseResistant
+2018,Rice Swift 89 (2010),Staple|HeatTolerant
+2019,Crest Millet of Amanzi (2004),LongStorage|Rainfed|Intercrop
+2020,Ember Sweet Potato of Sokoto (2020),ClaySoil|FloodTolerant|SandySoil
+2021,Hawassa Star Bean (2021),HighYield|Irrigated|DualPurpose
+2022,Crest Tea of Akatsi (1985),Rainfed|HighYield|Intercrop
+2023,Sweet Potato Swift 66 (2007),LowInput
+2024,Hawassa Gold Groundnut (2011),EarlyMaturing|HeatTolerant|LowInput
+2025,Hawassa Giant Sorghum (1996),DiseaseResistant|Intercrop|MarketGrade
+2026,Swift Bean of Hawassa (2006),FloodTolerant|Staple
+2027,Rice Gold 74 (2000),FloodTolerant|Fortified|CashCrop
+2028,Gold Sweet Potato of Amanzi (2011),LowInput|PestResistant|Fortified
+2029,Sweet Potato Spring 11 (2016),DiseaseResistant|ClaySoil
+2030,Prime Wheat of Sokoto (1986),DroughtTolerant|EarlyMaturing
+2031,Hawassa Dawn Bean (1988),DualPurpose|HighYield
+2032,Delta Cowpea of Kilimani (2022),MarketGrade
+2033,Sokoto Prime Maize (2014),Fortified|Intercrop|Irrigated
+2034,Wheat Giant 83 (2006),Rainfed|Staple
+2035,Amanzi Crest Cassava (1995),Staple
+2036,Akatsi Pearl Groundnut (2017),HeatTolerant|CashCrop|DualPurpose
+2037,Cowpea Gold 74 (2007),DiseaseResistant
+2038,Royal Bean of Amanzi (1991),HighYield
+2039,Gold Sunflower of Hawassa (1994),Intercrop
+2040,Pearl Rice of Kilimani (2006),PestResistant|Rainfed|EarlyMaturing
+2041,Spring Bean of Akatsi (1994),SandySoil|CashCrop|Staple
+2042,Groundnut Delta 88 (1991),FloodTolerant|DroughtTolerant|Rainfed
+2043,Akatsi Spring Cassava (2022),SandySoil
+2044,Pearl Cowpea of Akatsi (1983),(no traits listed)
+2045,Bean Star 40 (1980),Irrigated
+2046,Summit Maize of Amanzi (2000),Intercrop|SandySoil|HighYield
+2047,Spring Bean of Amanzi (2019),CashCrop|HeatTolerant|ClaySoil
+2048,Akatsi Royal Rice (1997),CashCrop|ClaySoil
+2049,Kilimani Spring Maize (1991),FloodTolerant
+2050,Royal Cowpea of Akatsi (1991),Fortified|Irrigated
+2051,Akatsi Shield Tea (2009),LongStorage|DroughtTolerant|CashCrop
+2052,Hawassa Delta Rice (1986),PestResistant
+2053,Amanzi Crest Wheat (2020),EarlyMaturing|CashCrop|MarketGrade
+2054,Tea Pearl 18 (2009),HeatTolerant
+2055,Sokoto Gold Cassava (2017),DroughtTolerant|LowInput
+2056,Akatsi Swift Sorghum (1982),Rainfed|Irrigated|DroughtTolerant
+2057,Delta Cassava of Sokoto (1995),DroughtTolerant
+2058,Prime Rice of Amanzi (2023),Rainfed
+2059,Millet Ember 34 (2005),DiseaseResistant|EarlyMaturing
+2060,Giant Millet of Amanzi (2019),Fortified|MarketGrade
+2061,Swift Cassava of Akatsi (2008),Intercrop
+2062,Rice Prime 32 (2011),PestResistant|Rainfed
+2063,Akatsi Prime Millet (2005),PestResistant|SandySoil
+2064,Cassava Royal 47 (2002),PestResistant|DiseaseResistant|LowInput
+2065,Spring Sweet Potato of Sokoto (2022),Rainfed|HeatTolerant
+2066,Sweet Potato Star 36 (1987),Intercrop|CashCrop
+2067,Pearl Millet of Hawassa (1998),DiseaseResistant|DroughtTolerant
+2068,Amanzi Pearl Sweet Potato (2002),SandySoil|Rainfed|LowInput
+2069,Maize Prime 57 (1989),DiseaseResistant|FloodTolerant
+2070,Akatsi Shield Cowpea (2019),PestResistant|LowInput
+2071,Sokoto Ember Rice (2001),DualPurpose
+2072,Kilimani Delta Cassava (2013),Rainfed|HeatTolerant|LowInput
+2073,Rice Ember 40 (2001),Fortified|FloodTolerant
+2074,Summit Cassava of Amanzi (2002),PestResistant
+2075,Hawassa Prime Maize (1992),Rainfed
+2076,Sweet Potato Pearl 13 (2008),SandySoil|MarketGrade
+2077,Rice Star 43 (1998),PestResistant|HeatTolerant|Rainfed
+2078,Kilimani Delta Millet (2002),SandySoil|DroughtTolerant|Irrigated
+2079,Spring Wheat of Amanzi (1980),ClaySoil
+2080,Cowpea Royal 23 (2019),EarlyMaturing|DroughtTolerant
+2081,Sweet Potato Spring 58 (1981),ClaySoil|Intercrop|CashCrop
+2082,Bean Shield 57 (2004),FloodTolerant|LowInput|SandySoil
+2083,Tea Pearl 4 (2009),Rainfed
+2084,Kilimani Shield Bean (2004),FloodTolerant
+2085,Spring Millet of Amanzi (2023),MarketGrade|DualPurpose|FloodTolerant
+2086,Giant Tea of Amanzi (1995),Rainfed|Fortified
+2087,Maize Spring 44 (2009),LowInput
+2088,Delta Rice of Akatsi (1991),Intercrop|CashCrop|PestResistant
+2089,Cowpea Prime 39 (1991),DualPurpose
+2090,Dawn Cowpea of Sokoto (2001),SandySoil|PestResistant|MarketGrade
+2091,Amanzi Pearl Groundnut (1995),Staple
+2092,Hawassa Spring Bean (1988),Staple
+2093,Sunflower Prime 42 (2007),ClaySoil
+2094,Crest Sunflower of Akatsi (2018),SandySoil|ClaySoil|PestResistant
+2095,Kilimani Crest Wheat (2013),DualPurpose|HighYield|HeatTolerant
+2096,Akatsi Royal Millet (2000),DualPurpose
+2097,Hawassa Dawn Wheat (1996),Fortified|LongStorage
+2098,Gold Rice of Hawassa (2022),MarketGrade
+2099,Tea Star 53 (2022),DiseaseResistant
+2100,Tea Crest 73 (2004),DualPurpose
+2101,Hawassa Star Maize (2017),DiseaseResistant
+2102,Cowpea Delta 34 (2011),Staple
+2103,Crest Cassava of Hawassa (2009),DualPurpose
+2104,Millet Shield 59 (2010),LongStorage
+2105,Sokoto Shield Cowpea (2002),Irrigated|HighYield
+2106,Cassava Ember 11 (1982),PestResistant
+2107,Dawn Tea of Kilimani (2002),Irrigated|PestResistant|CashCrop
+2108,Swift Maize of Akatsi (1994),Fortified|HighYield|HeatTolerant
+2109,Amanzi Shield Sorghum (1982),HeatTolerant|ClaySoil|MarketGrade
+2110,Hawassa Giant Sweet Potato (2003),DualPurpose|CashCrop|SandySoil
+2111,Swift Wheat of Hawassa (1980),EarlyMaturing|Fortified|HighYield
+2112,Kilimani Crest Cassava (2010),LowInput
+2113,Swift Bean of Sokoto (1984),PestResistant|FloodTolerant|Fortified
+2114,Amanzi Prime Bean (2009),Staple|CashCrop
+2115,Cowpea Royal 44 (1988),LongStorage
+2116,Hawassa Spring Groundnut (1994),CashCrop|Staple|HighYield
+2117,Akatsi Spring Bean (2018),LongStorage|Rainfed
+2118,Groundnut Ember 63 (1994),ClaySoil|HighYield|Intercrop
+2119,Crest Rice of Sokoto (2005),SandySoil|DiseaseResistant|EarlyMaturing
+2120,Pearl Maize of Sokoto (1981),Irrigated
+2121,Sokoto Spring Sorghum (1981),Intercrop
+2122,Cowpea Crest 21 (2015),ClaySoil
+2123,Amanzi Star Sweet Potato (2009),HeatTolerant|PestResistant
+2124,Cassava Star 22 (1998),SandySoil|EarlyMaturing
+2125,Amanzi Star Rice (2011),LowInput
+2126,Cassava Dawn 57 (1995),LowInput|Fortified|Irrigated
+2127,Amanzi Dawn Groundnut (2017),PestResistant
+2128,Akatsi Prime Bean (2017),DualPurpose|MarketGrade
+2129,Maize Delta 59 (2023),HighYield|DiseaseResistant
+2130,Delta Maize of Akatsi (2003),FloodTolerant
+2131,Sokoto Dawn Sweet Potato (1989),PestResistant
+2132,Ember Tea of Akatsi (1997),Intercrop|FloodTolerant|PestResistant
+2133,Kilimani Pearl Tea (2011),Irrigated|PestResistant|LongStorage
+2134,Crest Cowpea of Hawassa (2012),MarketGrade|Fortified|HeatTolerant
+2135,Amanzi Delta Tea (1987),HighYield
+2136,Summit Cowpea of Sokoto (1994),ClaySoil|HighYield|DualPurpose
+2137,Swift Cowpea of Hawassa (2013),SandySoil
+2138,Amanzi Ember Cassava (2003),Intercrop
+2139,Prime Maize of Amanzi (2013),Fortified|Intercrop|LongStorage
+2140,Millet Gold 2 (2011),FloodTolerant|DiseaseResistant|HeatTolerant
+2141,Sorghum Gold 64 (2011),LongStorage
+2142,Millet Ember 51 (2022),Staple|LowInput|PestResistant
+2143,Summit Tea of Sokoto (1996),EarlyMaturing|DualPurpose|HighYield
+2144,Millet Delta 37 (2019),DiseaseResistant|LowInput
+2145,Amanzi Shield Cowpea (1996),HeatTolerant
+2146,Summit Rice of Kilimani (2023),MarketGrade|Rainfed
+2147,Akatsi Giant Wheat (2003),DualPurpose|EarlyMaturing|PestResistant
+2148,Millet Giant 90 (2010),ClaySoil|Staple|DroughtTolerant
+2149,Akatsi Spring Wheat (1983),Rainfed
+2150,Summit Tea of Sokoto (2009),FloodTolerant|EarlyMaturing
+2151,Sokoto Swift Sweet Potato (2018),EarlyMaturing
+2152,Summit Cowpea of Kilimani (1982),LongStorage|FloodTolerant
+2153,Maize Dawn 7 (2022),HeatTolerant|DroughtTolerant|LongStorage
+2154,Akatsi Ember Sunflower (2006),DiseaseResistant|Fortified
+2155,Summit Rice of Akatsi (1980),DiseaseResistant
+2156,Sunflower Crest 13 (1987),Fortified|ClaySoil|Intercrop
+2157,Sorghum Delta 55 (2013),Fortified
+2158,Hawassa Shield Tea (1980),DiseaseResistant|HighYield
+2159,Groundnut Giant 39 (2001),PestResistant|ClaySoil
+2160,Amanzi Pearl Sorghum (1985),HighYield|ClaySoil|MarketGrade
+2161,Akatsi Prime Bean (1990),Intercrop|EarlyMaturing
+2162,Akatsi Prime Maize (1981),Staple
+2163,Sweet Potato Summit 24 (1990),DualPurpose|DroughtTolerant
+2164,Gold Wheat of Akatsi (2004),Fortified
+2165,Sokoto Gold Cassava (2011),LongStorage|ClaySoil|LowInput
+2166,Prime Bean of Kilimani (2019),Rainfed
+2167,Wheat Royal 56 (1988),LowInput|FloodTolerant
+2168,Cassava Royal 41 (2015),DroughtTolerant
+2169,Spring Rice of Amanzi (1995),SandySoil|HeatTolerant|DroughtTolerant
+2170,Akatsi Giant Rice (2002),LowInput|DualPurpose
+2171,Bean Star 7 (2009),DroughtTolerant
+2172,Cowpea Summit 45 (1999),DualPurpose|PestResistant|Staple
+2173,Akatsi Shield Tea (2008),Intercrop|LowInput
+2174,Amanzi Delta Cassava (2023),EarlyMaturing
+2175,Hawassa Spring Bean (1983),HighYield
+2176,Groundnut Ember 7 (1981),ClaySoil|CashCrop
+2177,Crest Groundnut of Sokoto (2015),FloodTolerant|LowInput
+2178,Wheat Giant 68 (1981),LongStorage|FloodTolerant
+2179,Sokoto Ember Millet (2002),Intercrop|LongStorage
+2180,Prime Cowpea of Amanzi (1980),PestResistant
+2181,Wheat Spring 21 (2015),LowInput
+2182,Sunflower Summit 32 (2022),Intercrop|DroughtTolerant|DiseaseResistant
+2183,Summit Tea of Kilimani (2005),CashCrop|Rainfed
+2184,Gold Sorghum of Amanzi (1981),PestResistant
+2185,Sweet Potato Prime 7 (2013),LowInput|DroughtTolerant|EarlyMaturing
+2186,Akatsi Royal Cowpea (2006),ClaySoil
+2187,Rice Prime 30 (2023),DroughtTolerant|LowInput
+2188,Groundnut Crest 47 (2022),MarketGrade
+2189,Akatsi Gold Sweet Potato (1982),MarketGrade|EarlyMaturing|PestResistant
+2190,Akatsi Spring Millet (2023),ClaySoil|Fortified
+2191,Prime Sweet Potato of Sokoto (2013),SandySoil|LowInput|Fortified
+2192,Swift Millet of Amanzi (1995),MarketGrade|LongStorage|CashCrop
+2193,Groundnut Swift 89 (2011),HeatTolerant|PestResistant|LongStorage
+2194,Ember Tea of Akatsi (1999),FloodTolerant|Intercrop|Rainfed
+2195,Tea Dawn 29 (2022),LongStorage|EarlyMaturing
+2196,Cassava Crest 93 (2017),DroughtTolerant|EarlyMaturing|FloodTolerant
+2197,Dawn Sorghum of Amanzi (2020),DiseaseResistant
+2198,Amanzi Shield Bean (1994),CashCrop
+2199,Kilimani Gold Rice (1987),ClaySoil|MarketGrade|DiseaseResistant
+2200,Kilimani Swift Sunflower (2015),Intercrop|PestResistant
+2201,Hawassa Spring Sweet Potato (2023),Fortified|Irrigated|DualPurpose
+2202,Kilimani Gold Rice (1982),SandySoil
+2203,Kilimani Spring Cassava (1982),ClaySoil|MarketGrade|DiseaseResistant
+2204,Maize Pearl 19 (1999),CashCrop|MarketGrade
+2205,Shield Millet of Kilimani (2015),HighYield|Fortified
+2206,Kilimani Pearl Rice (2021),HighYield|DiseaseResistant|LongStorage
+2207,Hawassa Spring Groundnut (2012),HighYield
+2208,Amanzi Pearl Sorghum (1991),DiseaseResistant|FloodTolerant
+2209,Pearl Sunflower of Kilimani (2020),LowInput|DroughtTolerant|FloodTolerant
+2210,Tea Shield 80 (1999),DiseaseResistant|Rainfed|Irrigated
+2211,Amanzi Prime Maize (2014),LongStorage|CashCrop|FloodTolerant
+2212,Sokoto Crest Maize (2022),Rainfed|DualPurpose|Intercrop
+2213,Groundnut Swift 38 (2013),Rainfed|HeatTolerant
+2214,Crest Cowpea of Hawassa (1997),Staple|CashCrop|HeatTolerant
+2215,Kilimani Ember Cowpea (1999),Fortified|MarketGrade|HighYield
+2216,Hawassa Gold Wheat (2015),Intercrop|DualPurpose
+2217,Sunflower Crest 8 (2001),DualPurpose
+2218,Shield Sorghum of Kilimani (1980),FloodTolerant
+2219,Crest Sweet Potato of Akatsi (2018),DualPurpose
+2220,Akatsi Ember Cassava (1984),DualPurpose|LongStorage|ClaySoil
+2221,Amanzi Summit Sorghum (1989),PestResistant|DualPurpose|LongStorage
+2222,Giant Cowpea of Amanzi (2009),Fortified
+2223,Pearl Bean of Akatsi (2003),ClaySoil|DiseaseResistant|Fortified
+2224,Tea Spring 12 (1990),EarlyMaturing
+2225,Crest Wheat of Kilimani (1989),HighYield
+2226,Akatsi Summit Maize (2017),DualPurpose|DroughtTolerant
+2227,Swift Sunflower of Hawassa (1984),DualPurpose|Intercrop
+2228,Kilimani Pearl Maize (2018),SandySoil|HighYield
+2229,Sokoto Giant Cowpea (2006),EarlyMaturing|Irrigated
+2230,Rice Prime 6 (2009),LongStorage
+2231,Sorghum Spring 20 (1984),SandySoil
+2232,Dawn Millet of Amanzi (1990),LowInput|Irrigated|CashCrop
+2233,Swift Maize of Kilimani (1989),MarketGrade|LongStorage
+2234,Maize Delta 53 (2007),LowInput|Intercrop
+2235,Wheat Summit 94 (2014),LowInput|DualPurpose
+2236,Hawassa Delta Groundnut (1986),FloodTolerant|Fortified
+2237,Maize Crest 60 (1982),LowInput
+2238,Akatsi Swift Sunflower (2023),Irrigated|SandySoil|LowInput
+2239,Summit Maize of Sokoto (2015),Fortified
+2240,Millet Shield 28 (2000),DualPurpose
+2241,Summit Sorghum of Akatsi (2003),ClaySoil|Fortified
+2242,Kilimani Delta Cassava (2022),Staple
+2243,Sorghum Star 38 (2020),Staple|HighYield|FloodTolerant
+2244,Star Rice of Akatsi (1993),HighYield|EarlyMaturing|Intercrop
+2245,Giant Millet of Hawassa (1987),Irrigated
+2246,Delta Groundnut of Sokoto (2002),FloodTolerant|Irrigated|DroughtTolerant
+2247,Crest Cassava of Sokoto (1987),Irrigated|Rainfed
+2248,Shield Cassava of Kilimani (2015),PestResistant
+2249,Wheat Ember 68 (2017),Rainfed
+2250,Crest Groundnut of Amanzi (2007),DroughtTolerant
+2251,Akatsi Delta Sunflower (2004),Irrigated|SandySoil|LowInput
+2252,Delta Millet of Hawassa (1997),DroughtTolerant|EarlyMaturing|PestResistant
+2253,Cassava Dawn 94 (1980),HighYield|HeatTolerant|FloodTolerant
+2254,Royal Tea of Hawassa (1994),SandySoil
+2255,Groundnut Star 50 (2018),HeatTolerant
+2256,Amanzi Ember Maize (1990),LongStorage|Fortified|Irrigated
+2257,Hawassa Swift Sunflower (1983),Rainfed|FloodTolerant
+2258,Pearl Cowpea of Hawassa (2023),HeatTolerant|SandySoil|DroughtTolerant
+2259,Kilimani Delta Millet (2009),CashCrop
+2260,Rice Pearl 57 (2022),(no traits listed)
+2261,Ember Tea of Amanzi (1990),FloodTolerant|PestResistant|Intercrop
+2262,Groundnut Ember 5 (2007),Staple|DiseaseResistant|Rainfed
+2263,Akatsi Delta Sorghum (2005),PestResistant
+2264,Royal Cassava of Akatsi (1999),SandySoil|MarketGrade|LongStorage
+2265,Shield Cassava of Kilimani (2009),HeatTolerant
+2266,Maize Giant 95 (2013),DiseaseResistant|LowInput
+2267,Giant Cowpea of Amanzi (2012),DiseaseResistant|Fortified
+2268,Sokoto Delta Bean (1994),ClaySoil
+2269,Hawassa Ember Rice (1984),DiseaseResistant|MarketGrade
+2270,Star Cassava of Hawassa (1980),PestResistant|DroughtTolerant
+2271,Akatsi Prime Cowpea (2021),EarlyMaturing|DiseaseResistant
+2272,Rice Crest 92 (2020),ClaySoil|DroughtTolerant
+2273,Bean Spring 30 (2018),HeatTolerant|Irrigated|CashCrop
+2274,Crest Millet of Sokoto (2005),DiseaseResistant
+2275,Sweet Potato Spring 42 (2004),Fortified|LowInput
+2276,Giant Bean of Sokoto (2014),LongStorage
+2277,Groundnut Crest 61 (2011),DiseaseResistant|LowInput|Intercrop
+2278,Shield Tea of Akatsi (2017),DroughtTolerant
+2279,Prime Sunflower of Akatsi (2001),HighYield|LowInput
+2280,Sunflower Giant 20 (2014),Intercrop|LowInput|DualPurpose
+2281,Cassava Delta 40 (1992),MarketGrade|DualPurpose|ClaySoil
+2282,Tea Star 11 (1996),DualPurpose
+2283,Star Sunflower of Kilimani (2002),CashCrop|SandySoil|HeatTolerant
+2284,Pearl Maize of Akatsi (2000),ClaySoil
+2285,Star Cowpea of Hawassa (1984),FloodTolerant|Irrigated|EarlyMaturing
+2286,Akatsi Summit Bean (2001),EarlyMaturing|DiseaseResistant
+2287,Hawassa Swift Cowpea (2003),Fortified|Irrigated
+2288,Star Sweet Potato of Hawassa (2008),DualPurpose|Intercrop
+2289,Akatsi Royal Cassava (2014),Rainfed
+2290,Crest Sorghum of Kilimani (2015),Irrigated
+2291,Wheat Prime 31 (2012),HeatTolerant|EarlyMaturing|LongStorage
+2292,Maize Swift 28 (2017),PestResistant|LongStorage
+2293,Crest Cowpea of Sokoto (2009),Staple
+2294,Akatsi Giant Sorghum (2012),EarlyMaturing|HighYield|Irrigated
+2295,Summit Bean of Kilimani (1992),LongStorage
+2296,Kilimani Star Sunflower (1988),DualPurpose
+2297,Sokoto Summit Cassava (1992),Rainfed|SandySoil|DualPurpose
+2298,Groundnut Summit 4 (2004),LowInput|HighYield|EarlyMaturing
+2299,Sokoto Gold Rice (1990),DiseaseResistant
+2300,Bean Star 6 (1992),DroughtTolerant
+2301,Sorghum Spring 82 (2002),DiseaseResistant
+2302,Akatsi Delta Maize (2009),HighYield|MarketGrade
+2303,Sweet Potato Shield 49 (2003),ClaySoil|Irrigated|MarketGrade
+2304,Sweet Potato Shield 79 (2001),EarlyMaturing
+2305,Cowpea Giant 47 (2005),SandySoil|ClaySoil|HighYield
+2306,Amanzi Royal Millet (1984),HeatTolerant|DroughtTolerant
+2307,Swift Groundnut of Akatsi (1987),LowInput|ClaySoil|PestResistant
+2308,Shield Tea of Hawassa (2016),ClaySoil|DiseaseResistant|FloodTolerant
+2309,Wheat Shield 8 (2006),HighYield|LongStorage|PestResistant
+2310,Amanzi Royal Wheat (1996),LowInput|SandySoil
+2311,Maize Ember 39 (1997),ClaySoil
+2312,Prime Bean of Amanzi (2015),DiseaseResistant|ClaySoil|Fortified
+2313,Bean Giant 48 (1985),LowInput|SandySoil|DroughtTolerant
+2314,Hawassa Giant Groundnut (1999),LowInput|DualPurpose
+2315,Akatsi Ember Tea (2018),HighYield|Irrigated
+2316,Dawn Cowpea of Amanzi (1987),Staple|Rainfed|HighYield
+2317,Gold Sweet Potato of Sokoto (1981),CashCrop
+2318,Cowpea Star 86 (1983),Intercrop|Rainfed|Staple
+2319,Sunflower Swift 49 (1993),SandySoil|Rainfed|HighYield
+2320,Sokoto Giant Tea (2009),MarketGrade|Fortified
+2321,Tea Gold 71 (2019),Fortified|Intercrop
+2322,Sunflower Giant 55 (2013),HeatTolerant
+2323,Hawassa Giant Sorghum (2019),FloodTolerant
+2324,Star Sweet Potato of Hawassa (1981),Intercrop|FloodTolerant
+2325,Bean Swift 74 (2015),CashCrop|Intercrop|MarketGrade
+2326,Maize Star 27 (2019),Intercrop|DiseaseResistant
+2327,Kilimani Royal Rice (2002),Irrigated
+2328,Millet Delta 65 (1997),ClaySoil|HighYield|CashCrop
+2329,Kilimani Royal Sorghum (2002),HeatTolerant
+2330,Sorghum Ember 14 (2002),Fortified
+2331,Sokoto Shield Cowpea (2019),LongStorage|MarketGrade|Staple
+2332,Sorghum Pearl 5 (2019),MarketGrade|HeatTolerant
+2333,Giant Cassava of Amanzi (2000),LongStorage|PestResistant|Staple
+2334,Star Bean of Hawassa (2020),Rainfed|Staple|Irrigated
+2335,Shield Sunflower of Sokoto (1984),Staple
+2336,Dawn Cassava of Hawassa (2006),Irrigated|Staple
+2337,Ember Cassava of Kilimani (2016),DroughtTolerant|LowInput
+2338,Amanzi Delta Sorghum (2023),SandySoil|HighYield
+2339,Rice Swift 93 (2017),EarlyMaturing|LongStorage|DiseaseResistant
+2340,Akatsi Ember Cowpea (1992),FloodTolerant|Irrigated|HighYield
+2341,Giant Rice of Kilimani (1998),DiseaseResistant
+2342,Kilimani Giant Sweet Potato (1990),ClaySoil
+2343,Akatsi Shield Wheat (1988),CashCrop|ClaySoil|PestResistant
+2344,Kilimani Star Cassava (1987),DiseaseResistant|ClaySoil
+2345,Sokoto Pearl Bean (1997),HeatTolerant|FloodTolerant
+2346,Giant Cowpea of Kilimani (1980),ClaySoil
+2347,Maize Star 13 (1982),LongStorage
+2348,Wheat Ember 22 (2007),SandySoil|HeatTolerant|FloodTolerant
+2349,Bean Crest 21 (2002),DualPurpose|Staple
+2350,Star Sunflower of Kilimani (2016),PestResistant
+2351,Sokoto Royal Sweet Potato (2006),CashCrop
+2352,Bean Swift 56 (1999),Intercrop|CashCrop|LongStorage
+2353,Kilimani Star Sorghum (1992),DroughtTolerant|LongStorage
+2354,Ember Millet of Hawassa (1996),SandySoil|ClaySoil|Staple
+2355,Shield Bean of Hawassa (2005),PestResistant|SandySoil|Irrigated
+2356,Crest Groundnut of Amanzi (1990),FloodTolerant
+2357,Royal Cowpea of Hawassa (1993),DualPurpose|DroughtTolerant
+2358,Rice Crest 25 (2012),HighYield|SandySoil
+2359,Giant Sunflower of Akatsi (2004),CashCrop
+2360,Maize Crest 28 (1995),EarlyMaturing
+2361,Shield Cowpea of Sokoto (2023),LowInput|DiseaseResistant|Irrigated
+2362,Summit Sunflower of Kilimani (2022),Staple|Fortified|DualPurpose
+2363,Crest Rice of Kilimani (1995),DualPurpose|Rainfed|FloodTolerant
+2364,Rice Ember 96 (1994),EarlyMaturing|PestResistant
+2365,Dawn Rice of Sokoto (1997),DualPurpose
+2366,Hawassa Pearl Groundnut (1993),Intercrop|Rainfed
+2367,Cowpea Shield 15 (1982),LowInput
+2368,Groundnut Spring 19 (1980),Intercrop|DualPurpose
+2369,Akatsi Summit Tea (2023),Staple
+2370,Bean Crest 78 (2003),FloodTolerant
+2371,Kilimani Shield Rice (1991),Intercrop|Fortified
+2372,Amanzi Spring Sweet Potato (2011),HeatTolerant
+2373,Akatsi Ember Cowpea (2008),Rainfed|FloodTolerant|HeatTolerant
+2374,Maize Ember 73 (1980),FloodTolerant|DroughtTolerant|Irrigated
+2375,Giant Wheat of Hawassa (2014),LongStorage|Staple|SandySoil
+2376,Kilimani Royal Sweet Potato (2006),DiseaseResistant
+2377,Hawassa Spring Groundnut (1996),Staple
+2378,Cassava Royal 36 (2015),LowInput
+2379,Crest Millet of Amanzi (2015),Irrigated
+2380,Shield Millet of Kilimani (1986),Staple
+2381,Cowpea Summit 9 (2017),SandySoil|Irrigated|FloodTolerant
+2382,Shield Sweet Potato of Kilimani (2018),Fortified|DroughtTolerant
+2383,Rice Shield 3 (2012),Rainfed|SandySoil
+2384,Shield Sorghum of Sokoto (1986),ClaySoil|SandySoil
+2385,Maize Prime 76 (1993),HighYield|Staple
+2386,Ember Bean of Kilimani (1995),Rainfed|FloodTolerant
+2387,Cowpea Pearl 58 (2004),HighYield|Staple
+2388,Cassava Summit 67 (1991),Irrigated|DiseaseResistant|Rainfed
+2389,Star Wheat of Akatsi (2010),Rainfed|Staple|DualPurpose
+2390,Kilimani Gold Maize (2009),Intercrop
+2391,Millet Dawn 29 (2007),DiseaseResistant|EarlyMaturing
+2392,Giant Millet of Akatsi (2005),DiseaseResistant|LowInput|EarlyMaturing
+2393,Star Maize of Kilimani (1990),CashCrop|HighYield
+2394,Gold Sunflower of Amanzi (2007),Irrigated
+2395,Star Rice of Kilimani (2002),Fortified|Intercrop|Rainfed
+2396,Kilimani Royal Bean (2007),Rainfed
+2397,Akatsi Crest Rice (1981),LongStorage|Rainfed|ClaySoil
+2398,Amanzi Gold Sorghum (2002),Rainfed|MarketGrade|Fortified
+2399,Giant Millet of Kilimani (1982),LongStorage|HeatTolerant
+2400,Akatsi Shield Rice (2022),Rainfed|HeatTolerant
+2401,Hawassa Swift Sunflower (2002),Irrigated|Rainfed
+2402,Kilimani Pearl Sweet Potato (2020),Intercrop
+2403,Akatsi Dawn Millet (1981),DroughtTolerant|DiseaseResistant
+2404,Crest Tea of Hawassa (2021),Staple|DroughtTolerant
+2405,Sweet Potato Spring 92 (1995),DroughtTolerant
+2406,Summit Sorghum of Amanzi (2014),Rainfed|DiseaseResistant|Irrigated
+2407,Ember Maize of Akatsi (2016),DiseaseResistant|SandySoil
+2408,Kilimani Summit Tea (1980),EarlyMaturing|LowInput
+2409,Sokoto Giant Maize (2022),LongStorage|PestResistant|DroughtTolerant
+2410,Kilimani Giant Maize (1988),LongStorage
+2411,Sunflower Dawn 89 (2003),Fortified|ClaySoil|Rainfed
+2412,Sokoto Delta Rice (1993),Intercrop|LongStorage|CashCrop
+2413,Kilimani Giant Cowpea (1997),LowInput|Intercrop
+2414,Tea Pearl 95 (1999),PestResistant
+2415,Kilimani Swift Cowpea (2004),SandySoil|FloodTolerant|HeatTolerant
+2416,Maize Swift 94 (2021),SandySoil|ClaySoil
+2417,Gold Sorghum of Akatsi (2010),CashCrop|DiseaseResistant
+2418,Amanzi Gold Sweet Potato (2018),EarlyMaturing|ClaySoil|MarketGrade
+2419,Maize Spring 90 (2004),Staple
+2420,Sokoto Crest Millet (1996),Irrigated|HighYield
+2421,Delta Rice of Hawassa (2021),CashCrop
+2422,Crest Maize of Sokoto (1997),LowInput
+2423,Summit Sunflower of Amanzi (1989),LongStorage
+2424,Giant Wheat of Kilimani (2013),MarketGrade|FloodTolerant|PestResistant
+2425,Prime Rice of Akatsi (1989),MarketGrade|EarlyMaturing
+2426,Akatsi Prime Tea (2012),Intercrop|PestResistant|Rainfed
+2427,Sweet Potato Star 12 (1988),LongStorage|Intercrop|EarlyMaturing
+2428,Hawassa Star Bean (1990),EarlyMaturing
+2429,Gold Maize of Sokoto (2007),PestResistant|MarketGrade|EarlyMaturing
+2430,Cassava Pearl 50 (2005),LongStorage
+2431,Crest Rice of Sokoto (2023),HeatTolerant|LongStorage|CashCrop
+2432,Gold Millet of Sokoto (1988),LowInput
+2433,Sunflower Dawn 20 (2007),DiseaseResistant|HeatTolerant|Fortified
+2434,Star Cassava of Kilimani (1983),LowInput|HeatTolerant
+2435,Kilimani Ember Sunflower (1995),PestResistant|SandySoil|DiseaseResistant
+2436,Amanzi Swift Bean (2015),ClaySoil
+2437,Ember Wheat of Hawassa (1995),LowInput
+2438,Cassava Delta 51 (2007),EarlyMaturing|LongStorage
+2439,Rice Star 83 (2009),CashCrop
+2440,Amanzi Summit Sunflower (2009),Rainfed|ClaySoil|SandySoil
+2441,Summit Sunflower of Kilimani (2016),DroughtTolerant
+2442,Gold Maize of Amanzi (2018),Intercrop|Rainfed
+2443,Kilimani Summit Sweet Potato (1989),Rainfed|Fortified|HeatTolerant
+2444,Pearl Millet of Hawassa (1997),Staple|FloodTolerant
+2445,Groundnut Star 39 (2005),PestResistant|HeatTolerant
+2446,Maize Shield 16 (2008),DualPurpose|HeatTolerant
+2447,Swift Sorghum of Hawassa (1987),PestResistant
+2448,Sorghum Summit 77 (1992),MarketGrade|FloodTolerant|CashCrop
+2449,Spring Wheat of Amanzi (2010),LongStorage
+2450,Sweet Potato Dawn 88 (2012),ClaySoil
+2451,Sunflower Delta 8 (2017),EarlyMaturing
+2452,Akatsi Delta Rice (2003),HighYield|HeatTolerant|CashCrop
+2453,Dawn Sorghum of Sokoto (2002),MarketGrade|DiseaseResistant
+2454,Kilimani Star Maize (1994),CashCrop|SandySoil
+2455,Amanzi Delta Sunflower (1983),DualPurpose
+2456,Sorghum Giant 88 (1982),ClaySoil|Staple
+2457,Tea Giant 39 (2002),Intercrop
+2458,Giant Rice of Amanzi (2020),Rainfed|FloodTolerant
+2459,Amanzi Royal Bean (1990),Rainfed|DualPurpose
+2460,Amanzi Star Sunflower (2008),DualPurpose
+2461,Prime Maize of Akatsi (1981),DiseaseResistant|HeatTolerant
+2462,Maize Ember 57 (2019),MarketGrade|DroughtTolerant
+2463,Sokoto Gold Wheat (1987),Rainfed|Irrigated|CashCrop
+2464,Akatsi Swift Bean (2014),FloodTolerant
+2465,Tea Star 6 (1989),Staple|HeatTolerant|Intercrop
+2466,Sorghum Dawn 51 (2014),DroughtTolerant|PestResistant|HighYield
+2467,Groundnut Dawn 74 (1991),Intercrop|LongStorage
+2468,Sunflower Crest 11 (1997),Staple|HeatTolerant|LongStorage
+2469,Sokoto Spring Groundnut (2016),EarlyMaturing|Staple
+2470,Bean Dawn 59 (2018),Rainfed|PestResistant
+2471,Kilimani Spring Millet (1984),LongStorage
+2472,Sokoto Giant Maize (2016),HeatTolerant|DualPurpose|Irrigated
+2473,Groundnut Ember 72 (2015),Irrigated|DualPurpose|Staple
+2474,Akatsi Crest Rice (2012),EarlyMaturing|LongStorage
+2475,Hawassa Delta Wheat (1999),CashCrop|LongStorage|SandySoil
+2476,Rice Dawn 32 (1986),MarketGrade|LongStorage|Irrigated
+2477,Hawassa Summit Groundnut (2013),PestResistant|HighYield|DroughtTolerant
+2478,Amanzi Star Tea (1984),DualPurpose
+2479,Delta Maize of Sokoto (1988),DualPurpose|Irrigated|PestResistant
+2480,Sokoto Shield Wheat (1991),FloodTolerant|PestResistant|LongStorage
+2481,Pearl Cassava of Akatsi (2004),Staple|LowInput|SandySoil
+2482,Amanzi Delta Millet (2019),Rainfed|DroughtTolerant|MarketGrade
+2483,Kilimani Royal Bean (2014),DualPurpose|LongStorage
+2484,Akatsi Ember Sweet Potato (2010),DroughtTolerant|Intercrop
+2485,Bean Star 50 (2007),ClaySoil
+2486,Millet Shield 56 (2017),FloodTolerant|Intercrop|MarketGrade
+2487,Akatsi Shield Maize (2005),Fortified|FloodTolerant
+2488,Sorghum Prime 7 (2004),MarketGrade|Intercrop
+2489,Gold Rice of Akatsi (2019),DiseaseResistant
+2490,Groundnut Giant 70 (2021),LowInput
+2491,Sweet Potato Giant 78 (2008),HighYield|DroughtTolerant|CashCrop
+2492,Delta Sorghum of Sokoto (1995),Irrigated
+2493,Sorghum Prime 52 (2003),CashCrop|DiseaseResistant
+2494,Dawn Cowpea of Kilimani (1990),EarlyMaturing|MarketGrade
+2495,Sorghum Prime 12 (1986),PestResistant|MarketGrade|Irrigated
+2496,Millet Royal 30 (2019),DualPurpose|HighYield|Intercrop
+2497,Giant Sunflower of Amanzi (2004),LongStorage
+2498,Royal Cassava of Hawassa (1981),DiseaseResistant|DroughtTolerant|HeatTolerant
+2499,Spring Groundnut of Akatsi (1984),MarketGrade|LowInput
+2500,Hawassa Summit Cowpea (2002),MarketGrade|HeatTolerant|DroughtTolerant
